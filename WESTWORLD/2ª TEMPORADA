@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/ec/Westworld_Temporada_2_Poster.jpg/220px-Westworld_Temporada_2_Poster.jpg" group-title="WESTWORLD" , [B] 2ª TEMPORADA [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91a702fb54442353173a9e112b3b3aca876b3f52
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
