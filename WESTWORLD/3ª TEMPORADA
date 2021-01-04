@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/Westworld_Poster_3_temporada.jpg" group-title="WESTWORLD" , [B] EPISÓDIO 01 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31bf8821075fabba59f28cffeef600e4ea41ae87&dn
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/Westworld_Poster_3_temporada.jpg" group-title="WESTWORLD" , [B] EPISÓDIO 02 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:791301e20925b320e229d0160581ab26afa788a5&dn
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/Westworld_Poster_3_temporada.jpg" group-title="WESTWORLD" , [B] EPISÓDIO 03 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6018238ac11ad4b8eb3245947fa6277d9d0ec43c&dn
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/Westworld_Poster_3_temporada.jpg" group-title="WESTWORLD" , [B] EPISÓDIO 04 & 05 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c9963af17e2cb2ba4ea13919241b5b04d9ada7f&dn
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/Westworld_Poster_3_temporada.jpg" group-title="WESTWORLD" , [B] EPISÓDIO 06 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8aae2bc52f62f287813b5fd5bede1b16297e5fe3&dn
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/Westworld_Poster_3_temporada.jpg" group-title="WESTWORLD" , [B] EPISÓDIO 07 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a32d9942c3f062675ac5503524054ec2f357e93&dn
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/Westworld_Poster_3_temporada.jpg" group-title="WESTWORLD" , [B] EPISÓDIO 08 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e508c139811a6b787a7711615a26a28821aa8ebc&dn
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
