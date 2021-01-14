@@ -1,5 +1,5 @@
 <item>
-<title>[B] S5 E01 [COLOR lime]  [/COLOR]  [/B]</title>
+<title>[B] T5:E1 - "Episódio 1" [COLOR lime]  [/COLOR]  [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdbcecdd2f8d3ce667d8c57003ab72c2a7ee8d0d</link>
 <thumbnail>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/12/The-Expanse-239x358.jpg</thumbnail>
 <fanart>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/12/The-Expanse-239x358.jpg</fanart>
@@ -8,17 +8,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <item>
-<title>[B] S5 E02 [COLOR lime]  [/COLOR]  [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdbcecdd2f8d3ce667d8c57003ab72c2a7ee8d0d</link>
-<thumbnail>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/12/The-Expanse-239x358.jpg</thumbnail>
-<fanart>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/12/The-Expanse-239x358.jpg</fanart>
-<info>MAGUSPLAY</info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
-<item>
-<title>[B] S5 E03 [COLOR lime]  [/COLOR]  [/B]</title>
+<title>[B] T5:E2 - "Episódio 2" [COLOR lime]  [/COLOR]  [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdbcecdd2f8d3ce667d8c57003ab72c2a7ee8d0d</link>
 <thumbnail>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/12/The-Expanse-239x358.jpg</thumbnail>
 <fanart>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/12/The-Expanse-239x358.jpg</fanart>
@@ -28,7 +18,17 @@
 
 
 <item>
-<title>[B] S5 E04 [COLOR lime]  [/COLOR]  [/B]</title>
+<title>[B] T5:E3 - "Episódio 3" [COLOR lime]  [/COLOR]  [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdbcecdd2f8d3ce667d8c57003ab72c2a7ee8d0d</link>
+<thumbnail>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/12/The-Expanse-239x358.jpg</thumbnail>
+<fanart>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/12/The-Expanse-239x358.jpg</fanart>
+<info>MAGUSPLAY</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+<item>
+<title>[B] T5:E4 - "Episódio 4" [COLOR lime]  [/COLOR]  [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09aa0d52862429f8477f272cbe767f2cc098b4a8</link>
 <thumbnail>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/12/The-Expanse-239x358.jpg</thumbnail>
 <fanart>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/12/The-Expanse-239x358.jpg</fanart>
@@ -38,10 +38,30 @@
 
 
 <item>
-<title>[B] S5 E05 [COLOR lime]  [/COLOR]  [/B]</title>
+<title>[B] T5:E5 - "Episódio 5" [COLOR lime]  [/COLOR]  [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66f0f70fc51abaccccd199779c96041d8cd4d8aa</link>
 <thumbnail>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/12/The-Expanse-239x358.jpg</thumbnail>
 <fanart>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/12/The-Expanse-239x358.jpg</fanart>
 <info>MAGUSPLAY</info>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[B] T5:E6 - "Episódio 6" [COLOR lime]  [/COLOR]  [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b73ec024af043ea155ac51e5d259f67ee48bc2b4</link>
+<thumbnail>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/12/The-Expanse-239x358.jpg</thumbnail>
+<fanart>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/12/The-Expanse-239x358.jpg</fanart>
+<info>MAGUSPLAY</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[B] T5:E7 - "Episódio 7" [COLOR lime]  [/COLOR]  [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05d984e3e62d2bdaad42755a5977e9ad496c351e</link>
+<thumbnail>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/12/The-Expanse-239x358.jpg</thumbnail>
+<fanart>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/12/The-Expanse-239x358.jpg</fanart>
+<info>MAGUSPLAY</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
