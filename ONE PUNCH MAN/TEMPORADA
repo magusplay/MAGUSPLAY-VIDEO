@@ -1,5 +1,5 @@
 <item>
-<title>[B] 1ª TEMPORADA  [/B]</title>
+<title>[B][COLOR white] 1ª TEMPORADA [/COLOR] TORRENT [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E85A6C98163A6941196DB801A31B2A310F522509&dn/view$$lsname=ONE PUNCH MAN 1080</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AB9FEA5782063770A1944D598B21FD786DFEA470&dn/view$$lsname=ONE PUNCH MAN 720</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81AVPbPbdtL.jpg</thumbnail>
@@ -7,7 +7,16 @@
 <info> DUBLADO </info>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-urn:btih:AB9FEA5782063770A1944D598B21FD786DFEA470
+
+<item>
+        <title>[B][COLOR white] 1ª TEMPORADA [/COLOR] ONLINE [/B]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/ONE%20PUNCH%20MAN/1%C2%AA%20TEMPORADA</externallink>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81AVPbPbdtL.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/81AVPbPbdtL.jpg</fanart>
+<info>LEGENDADO</info>
+        </item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <item>
         <title>[B][COLOR white] 2ª TEMPORADA [/COLOR][/B]</title>
