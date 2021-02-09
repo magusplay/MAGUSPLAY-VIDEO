@@ -37,8 +37,17 @@
 
 
 <item>
-<title>[B] T1:E5 - "Episódio 5" [COLOR lime] AGUARDANDO LANÇAMENTO [/COLOR]  [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TORRENT</link>
+<title>[B] T1:E5 - "Episódio 5" [COLOR lime][/COLOR]  [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e30e52213744738c8a8bd878675ad28ca53ad9a0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ylbb4SVlGH5Vjfxmrn53AoNPbaP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ylbb4SVlGH5Vjfxmrn53AoNPbaP.jpg</fanart>
+<info>[COLOR green]Sinopse:[/COLOR] O mundo muda quando luzes intensas aparecem sobre o oceano e as pessoas de três épocas diferentes do passado retornam: a idade da pedra, a era Viking e o final do século XIX. Aqueles que serão chamados visitantes não sabem como chegaram lá. </info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[B] T1:E6 - "Episódio 6" [COLOR lime] AGUARDANDO LANÇAMENTO [/COLOR]  [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AQUI</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ylbb4SVlGH5Vjfxmrn53AoNPbaP.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ylbb4SVlGH5Vjfxmrn53AoNPbaP.jpg</fanart>
 <info>[COLOR green]Sinopse:[/COLOR] O mundo muda quando luzes intensas aparecem sobre o oceano e as pessoas de três épocas diferentes do passado retornam: a idade da pedra, a era Viking e o final do século XIX. Aqueles que serão chamados visitantes não sabem como chegaram lá. </info>
