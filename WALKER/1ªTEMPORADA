@@ -23,7 +23,15 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <item>
-<title>[B] T1:E4 - "Episódio 4" [COLOR lime]  AGUARDANDO LANÇAMENTO[/COLOR]  [/B]</title>
+<title>[B] T1:E4 - "Episódio 4" [COLOR lime]  [/COLOR]  [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e23b0b5380c73769ecf7bb164097e46ecbaaceaa</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4VHQbbY1UcAjHN7UTGu0MGyVl2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4VHQbbY1UcAjHN7UTGu0MGyVl2.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[B] T1:E5 - "Episódio 5" [COLOR lime]  AGUARDANDO LANÇAMENTO[/COLOR]  [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4VHQbbY1UcAjHN7UTGu0MGyVl2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4VHQbbY1UcAjHN7UTGu0MGyVl2.jpg</fanart>
