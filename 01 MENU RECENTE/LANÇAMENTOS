@@ -101,7 +101,20 @@
 <info>MAGUSPLAY</info>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
+<item>
+<title>[B] ELEIÇÕES  [COLOR lime][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3922cef27dc05604d6098a62b60fbb97b1922ddf</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6xWpbnJIUuQK6jxciav1hgKhlO8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6xWpbnJIUuQK6jxciav1hgKhlO8.jpg</fanart>
+<info> 
+[COLOR green]Ano:[/COLOR] 2021
+[COLOR green]Genero:[/COLOR] DOCUMENTÁRIO NACIONAL
+[COLOR green]Idioma:[/COLOR] DUBLADO
+[COLOR green]Resolução:[/COLOR] HD 1080p
+[COLOR green]Sinopse:[/COLOR] A rotina de uma escola pública localizada no centro de São Paulo é alterada por conta das eleições do grêmio estudantil. Quatro grupos de estudantes, com visões de mundo diferentes, debatem propostas e lutam por melhorias na escola. Durante este período, é possível identificar como as consequências do processo eleitoral afetam as relações entre os alunos
+</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[B] O SOM E A FÚRIA  [COLOR lime][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd3b9718294a66a8659ab4b147313f7bac0febeb</link>
