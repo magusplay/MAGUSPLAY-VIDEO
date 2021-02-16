@@ -1,4 +1,14 @@
 <item>
+<title>[B] TESTE [COLOR yellow]  [/COLOR] [COLOR red] LEGENDADO[/COLOR][/B]</title>
+<link>https://www.googleapis.com/drive/v3/files/LINKAQUI?alt=media&key=API</link>
+<thumbnail>FOTO</thumbnail>
+<fanart>FOTO</fanart>
+<info>MAGUSPLAY ANIME</info>
+</item>
+
+
+
+<item>
 <title>[B] XICO: O CACHORRO MÁGICO  [COLOR lime][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:689f2bdbbea221d6a01264037188502abf44bcdc</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ssk0Gd27ziryP2OUxprIVhAvr3e.jpg</thumbnail>
