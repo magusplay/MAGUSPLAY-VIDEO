@@ -1,32 +1,6 @@
 #EXTM3U
-################################################################################# Canal do Usuário
-
 #EXTINF:-1 tvg-id="Canal do Cliente" tvg-logo="https://i.imgur.com/hWbctsy.jpg" group-title="Canais | Abertos",IPTV BOX LIVRE (Atualização 01-02-2021 12:00) - CANAL DO USUÁRIO 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?Cortesia
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-################################################################################# Destaques
-
-
-
-
 
 
 ################################################################################# Canais Abertos / TV Aberta FIXA
@@ -1113,67 +1087,4 @@ https://cdn.jmvstream.com/w/LVW-8047/LVW8047_GoSyvjNUro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | Governo",CINE TRIANON
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-################################################################################# Cortesia
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTM3U
