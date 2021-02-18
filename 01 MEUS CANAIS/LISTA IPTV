@@ -31,6 +31,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?offline
 
 ################################################################################# Canais Abertos / TV Aberta FIXA
 
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD "  tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV ABERTA",SBT HD 
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?
+
 #EXTINF:-1 tvg-id="Rede Record" tvg-name="RECORD" tvg-logo="https://i.imgur.com/UhnTnPe.png" group-title="Canais | Abertos",RECORD TV HD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 
