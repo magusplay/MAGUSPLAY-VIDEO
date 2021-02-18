@@ -1,317 +1,233 @@
 #EXTM3U
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Ação 01
-http://tv.factoryiptv.com:80/jurema10/jurema10/68468
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil", Nick HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/36907
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Ação 02
-http://tv.factoryiptv.com:80/jurema10/jurema10/68469
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Infantil", Nick Jr. HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/36908
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Ação 03
-http://tv.factoryiptv.com:80/jurema10/jurema10/68470
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil", NatGeo Kids HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/36909
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Ação 04
-http://tv.factoryiptv.com:80/jurema10/jurema10/68471
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil", Gloob HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/36915
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Ação 05
-http://tv.factoryiptv.com:80/jurema10/jurema10/68472
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil", Disney Channel HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/36921
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Comédia 01
-http://tv.factoryiptv.com:80/jurema10/jurema10/69164
+#EXTINF:-1 tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil", Discovery Kids HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/36923
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Comédia 02
-http://tv.factoryiptv.com:80/jurema10/jurema10/69165
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil", Cartoon Network HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/36927
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Comédia 03
-http://tv.factoryiptv.com:80/jurema10/jurema10/69166
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil", BabyTV
+http://tv.factoryiptv.com:80/jurema10/jurema10/36993
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Comédia 04
-http://tv.factoryiptv.com:80/jurema10/jurema10/69167
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Infantil", TV Ra Tim Bum
+http://tv.factoryiptv.com:80/jurema10/jurema10/37015
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Terror 01
-http://tv.factoryiptv.com:80/jurema10/jurema10/69168
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Canais | Infantil", Tooncast
+http://tv.factoryiptv.com:80/jurema10/jurema10/37033
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Comédia 05
-http://tv.factoryiptv.com:80/jurema10/jurema10/69169
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Canais | Infantil", Nick
+http://tv.factoryiptv.com:80/jurema10/jurema10/37064
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Terror 02
-http://tv.factoryiptv.com:80/jurema10/jurema10/69170
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Canais | Infantil", Nick Jr.
+http://tv.factoryiptv.com:80/jurema10/jurema10/37065
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Terror 05
-http://tv.factoryiptv.com:80/jurema10/jurema10/69171
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil", NatGeo Kids
+http://tv.factoryiptv.com:80/jurema10/jurema10/37067
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Terror 03
-http://tv.factoryiptv.com:80/jurema10/jurema10/69172
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Canais | Infantil", Gloob
+http://tv.factoryiptv.com:80/jurema10/jurema10/37089
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Terror 04
-http://tv.factoryiptv.com:80/jurema10/jurema10/69173
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Infantil", Disney XD
+http://tv.factoryiptv.com:80/jurema10/jurema10/37109
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP INFANTIL 01
-http://tv.factoryiptv.com:80/jurema10/jurema10/69582
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png" group-title="Canais | Infantil", Disney Junior
+http://tv.factoryiptv.com:80/jurema10/jurema10/37110
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP INFANTIL 02
-http://tv.factoryiptv.com:80/jurema10/jurema10/69583
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil", Disney Channel
+http://tv.factoryiptv.com:80/jurema10/jurema10/37111
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP INFANTIL 03
-http://tv.factoryiptv.com:80/jurema10/jurema10/69584
+#EXTINF:-1 tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil", Discovery Kids
+http://tv.factoryiptv.com:80/jurema10/jurema10/37113
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP INFANTIL 04
-http://tv.factoryiptv.com:80/jurema10/jurema10/69585
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil", Cartoon Network
+http://tv.factoryiptv.com:80/jurema10/jurema10/37121
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP INFANTIL 05
-http://tv.factoryiptv.com:80/jurema10/jurema10/69586
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Infantil", Boomerang
+http://tv.factoryiptv.com:80/jurema10/jurema10/37123
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP DRAMA 02
-http://tv.factoryiptv.com:80/jurema10/jurema10/69587
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil", Gloobinho HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/38969
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP DRAMA 03
-http://tv.factoryiptv.com:80/jurema10/jurema10/69588
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior-hd.png" group-title="Canais | Infantil", Disney Junior HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/40517
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP DRAMA 01
-http://tv.factoryiptv.com:80/jurema10/jurema10/69589
+#EXTINF:-1 tvg-logo="https://sydneyseast.kidsizeliving.com.au/dotAsset/f281f444-3ec8-4b01-826c-4287a7649bc6.png" group-title="Canais | Infantil", PlayKids HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/41359
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP DRAMA 04
-http://tv.factoryiptv.com:80/jurema10/jurema10/69590
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Canais | Infantil", Disney XD HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/50717
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP DRAMA 05
-http://tv.factoryiptv.com:80/jurema10/jurema10/69923
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b50f5a_ed7e03eea6314b228861287579e00aa9.png" group-title="Canais | Infantil", Zoomoo
+http://tv.factoryiptv.com:80/jurema10/jurema10/59355
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Ação 03
-http://tv.factoryiptv.com:80/jurema10/jurema10/68470
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Infantil", Boomerang HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/63627
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Ação 04
-http://tv.factoryiptv.com:80/jurema10/jurema10/68471
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Canais | Infantil", BabyTV HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/63634
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", Cine MP Ação 05
-http://tv.factoryiptv.com:80/jurema10/jurema10/68472
+#EXTINF:-1 tvg-logo="http://i.imgur.com/USRKuyc.png" group-title="Canais | Infantil", Tooncast HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/63647
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", CINE MP MARVEL 03
-http://tv.factoryiptv.com:80/jurema10/jurema10/71077
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KC9T8wA.png" group-title="Canais | Infantil", Gloobinho
+http://tv.factoryiptv.com:80/jurema10/jurema10/63720
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fiBjafV.png" group-title="Canais | Cine MP", CINE MP MARVEL 04
-http://tv.factoryiptv.com:80/jurema10/jurema10/71079
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b50f5a_ed7e03eea6314b228861287579e00aa9.png" group-title="Canais | Infantil", Zoomoo HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/63779
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0MrTbLP.png" group-title="Canais | Infantil", TV Ra Tim Bum HD
+http://tv.factoryiptv.com:80/jurema10/jurema10/63786
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere 7 HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/36905
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil", Disney Channel
+http://tv.factoryiptv.com:80/jurema10/jurema10/64786
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere 6 HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/36906
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 01 (G)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77517
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes", SporTV 3 HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/36942
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 02 (G)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77518
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes", SporTV 2 HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/36943
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 MOSAICO 01 (G)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77519
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere Clubes HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/36948
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 03 (G)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77520
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere 5 HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/36949
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 04 (G)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77521
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere 4 HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/36950
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 MOSAICO 02 (G)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77522
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere 3 HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/36951
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 01 (P)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77523
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere 2 HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/36952
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 02 (P)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77524
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes", FoxSports HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/36970
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 03 (P)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77525
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes", FoxSports 2 HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/36971
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 04 (P)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77526
 
-#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes", ESPN 2 HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/36976
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 MOSAICO 01 (P)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77527
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | Esportes", ESPN HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/36977
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 MOSAICO 02 (P)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77528
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes", Combate HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/36986
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 01 (S)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77529
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Esportes", BandSports HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/36989
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 02 (S)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77530
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAxzLi9.png" group-title="Canais | Esportes", SporTV 3
-http://tv.factoryiptv.com:80/jurema10/jurema10/37006
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 03 (S)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77531
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere Clubes
-http://tv.factoryiptv.com:80/jurema10/jurema10/37016
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 04 (S)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77532
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere 7
-http://tv.factoryiptv.com:80/jurema10/jurema10/37017
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 05 (S)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77533
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/v4TmPpc.png" group-title="Canais | Esportes", SporTV 2
-http://tv.factoryiptv.com:80/jurema10/jurema10/37044
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 06 (S)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77534
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere 6
-http://tv.factoryiptv.com:80/jurema10/jurema10/37056
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 07 (S)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77535
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere 5
-http://tv.factoryiptv.com:80/jurema10/jurema10/37057
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 08 (S)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77536
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere 4
-http://tv.factoryiptv.com:80/jurema10/jurema10/37058
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 09 (S)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77537
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere 3
-http://tv.factoryiptv.com:80/jurema10/jurema10/37059
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 10 (S)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77538
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere 2
-http://tv.factoryiptv.com:80/jurema10/jurema10/37060
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 11 (S)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77539
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/150raP9.png" group-title="Canais | Esportes", FoxSports 2
-http://tv.factoryiptv.com:80/jurema10/jurema10/37098
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 MOSAICO (S)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77540
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Canais | Esportes", FoxSports
-http://tv.factoryiptv.com:80/jurema10/jurema10/37099
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 01 (S)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77139
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Esportes", Fish TV
-http://tv.factoryiptv.com:80/jurema10/jurema10/37103
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 02 (J)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77269
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2ICVj9U" group-title="Canais | Esportes", ESPN Brasil
-http://tv.factoryiptv.com:80/jurema10/jurema10/37104
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 01 (J)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77270
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2GLHTrI" group-title="Canais | Esportes", ESPN
-http://tv.factoryiptv.com:80/jurema10/jurema10/37105
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 01 (J)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77541
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5qo1Dyc.png" group-title="Canais | Esportes", Combate
-http://tv.factoryiptv.com:80/jurema10/jurema10/37119
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 02 (J)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77542
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Esportes", BandSports
-http://tv.factoryiptv.com:80/jurema10/jurema10/37125
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 03 (J)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77543
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes", SporTV HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/37255
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 05 (J)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77545
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3ynzR93.png" group-title="Canais | Esportes", SporTV
-http://tv.factoryiptv.com:80/jurema10/jurema10/37256
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 06 (J)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77546
 
-#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png" group-title="Canais | Esportes", ESPN Extra
-http://tv.factoryiptv.com:80/jurema10/jurema10/41977
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 07 (J)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77547
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M43oOmn.png" group-title="Canais | Esportes", ESPN Extra HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/42910
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 08 (J)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77548
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IroXP7H.png" group-title="Canais | Esportes", Fish TV HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/42911
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 09 (J)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77549
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Esportes", BandSports
-http://tv.factoryiptv.com:80/jurema10/jurema10/50613
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 10 (J)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77550
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere 8
-http://tv.factoryiptv.com:80/jurema10/jurema10/54120
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 11 (J)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77551
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ledljQn.jpg" group-title="Canais | Esportes", Ei Plus 01 (G)
-http://tv.factoryiptv.com:80/jurema10/jurema10/54703
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 CAM 04 (J)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77544
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ledljQn.jpg" group-title="Canais | Esportes", EI PLUS HD (G)
-http://tv.factoryiptv.com:80/jurema10/jurema10/54705
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB CAM 01 (P)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77634
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0l37eVA.jpg" group-title="Canais | Esportes", DAZN 1 HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/58130
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB CAM 03 (P)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77636
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0l37eVA.jpg" group-title="Canais | Esportes", DAZN 2 HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/58433
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB CAM 04 (P)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77637
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ledljQn.jpg" group-title="Canais | Esportes", Esporte Interativo HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/61879
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB CAM 05 (P)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77638
 
-#EXTINF:-1 tvg-logo="https://is.gd/66MqME" group-title="Canais | Esportes", GloboEsporte.com
-http://tv.factoryiptv.com:80/jurema10/jurema10/62271
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB CAM 02 (P)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77635
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k3Ic3Mo.png" group-title="Canais | Esportes", ESPN 2
-http://tv.factoryiptv.com:80/jurema10/jurema10/62745
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rmrk8Ww.jpg" group-title="Canais | Esportes", DAZN 01 HD (A)
-http://tv.factoryiptv.com:80/jurema10/jurema10/63112
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rmrk8Ww.jpg" group-title="Canais | Esportes", DAZN 02 HD (A)
-http://tv.factoryiptv.com:80/jurema10/jurema10/63113
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nPTcquW.jpg" group-title="Canais | Esportes", DAZN 03 HD (A)
-http://tv.factoryiptv.com:80/jurema10/jurema10/63115
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hWeZFjv.jpg" group-title="Canais | Esportes", DAZN 04 HD (A)
-http://tv.factoryiptv.com:80/jurema10/jurema10/63116
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iuBxVVZ.png" group-title="Canais | Esportes", DAZN 7
-http://tv.factoryiptv.com:80/jurema10/jurema10/63216
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MynHKEZ.jpg" group-title="Canais | Esportes", EI PLUS 01 (P)
-http://tv.factoryiptv.com:80/jurema10/jurema10/63266
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MynHKEZ.jpg" group-title="Canais | Esportes", EI PLUS HD (S)
-http://tv.factoryiptv.com:80/jurema10/jurema10/63268
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MynHKEZ.jpg" group-title="Canais | Esportes", EI PLUS 04 (G)
-http://tv.factoryiptv.com:80/jurema10/jurema10/63269
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MynHKEZ.jpg" group-title="Canais | Esportes", EI PLUS 05 (G)
-http://tv.factoryiptv.com:80/jurema10/jurema10/63270
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MynHKEZ.jpg" group-title="Canais | Esportes", EI PLUS 06 (G)
-http://tv.factoryiptv.com:80/jurema10/jurema10/63271
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-eTHPGWTUg9o/VZqm99-Xj6I/AAAAAAAAaqQ/P8yHYrRNAzE/s1600/logo_ei_max.png" group-title="Canais | Esportes", EI MAX 02
-http://tv.factoryiptv.com:80/jurema10/jurema10/63683
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Premiere 8 HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/64657
-
-#EXTINF:-1 tvg-logo="https://www.folhape.com.br/obj/10/363520,475,80,0,0,475,365,0,0,0,0.png" group-title="Canais | Esportes", Facebook Watch
-http://tv.factoryiptv.com:80/jurema10/jurema10/64989
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png" group-title="Canais | Esportes", mycujoo 01
-http://tv.factoryiptv.com:80/jurema10/jurema10/71452
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png" group-title="Canais | Esportes", mycujoo 02
-http://tv.factoryiptv.com:80/jurema10/jurema10/71728
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png" group-title="Canais | Esportes", mycujoo 03
-http://tv.factoryiptv.com:80/jurema10/jurema10/71729
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ImVSrJh.png" group-title="Canais | Esportes", Rai 01
-http://tv.factoryiptv.com:80/jurema10/jurema10/71888
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hWeZFjv.jpg" group-title="Canais | Esportes", DAZN 01 HD (B)
-http://tv.factoryiptv.com:80/jurema10/jurema10/72972
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hWeZFjv.jpg" group-title="Canais | Esportes", DAZN 02 HD (B)
-http://tv.factoryiptv.com:80/jurema10/jurema10/72973
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hWeZFjv.jpg" group-title="Canais | Esportes", DAZN 03 HD (B)
-http://tv.factoryiptv.com:80/jurema10/jurema10/72974
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hWeZFjv.jpg" group-title="Canais | Esportes", DAZN 04 HD (B)
-http://tv.factoryiptv.com:80/jurema10/jurema10/72975
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hWeZFjv.jpg" group-title="Canais | Esportes", DAZN 05 HD (B)
-http://tv.factoryiptv.com:80/jurema10/jurema10/72976
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5R2hNRFnQfEI9Cv1wXmjdYTJOXbnpwPJgI_Ky_hujhkeWDJ_XQ" group-title="Canais | Esportes", ESPN BRASIL HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/73051
-
-#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/03/LNF.png" group-title="Canais | Esportes", Liga Futsal 2020
-http://tv.factoryiptv.com:80/jurema10/jurema10/73454
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8d0cM31.png" group-title="Canais | Esportes", Mosaico Premiere HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/74669
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i05eE2n.png" group-title="Canais | Esportes", Fox App
-http://tv.factoryiptv.com:80/jurema10/jurema10/70381
-
-#EXTINF:-1 tvg-logo="https://www.bjjheroes.com/wp-content/uploads/2019/02/BJJStars.jpg" group-title="Canais | Esportes", BJJ STAR IV HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/76261
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Foq8vbU.png" group-title="Canais | Esportes", NBA TV
-http://tv.factoryiptv.com:80/jurema10/jurema10/76782
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pYRPozn.jpg" group-title="Canais | Esportes", FURACAO TV
-http://tv.factoryiptv.com:80/jurema10/jurema10/77863
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-3.png" group-title="Canais | Big Brother Brasil", BBB 21 02 (S)
+http://tv.factoryiptv.com:80/jurema10/jurema10/77749
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/27nxhGn.png" group-title="Canais | Adultos", [XX] EROXX
 http://tv.factoryiptv.com:80/jurema10/jurema10/63710
@@ -418,6 +334,9 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/57091
 #EXTINF:-1 tvg-logo="https://i.imgur.com/27nxhGn.png" group-title="Canais | Adultos", [XX] ADULTO 12
 http://tv.factoryiptv.com:80/jurema10/jurema10/57092
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/27nxhGn.png" group-title="Canais | Adultos", [XX] ADULTO 13
+http://tv.factoryiptv.com:80/jurema10/jurema10/57095
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/27nxhGn.png" group-title="Canais | Adultos", [XX] ADULTO 14
 http://tv.factoryiptv.com:80/jurema10/jurema10/57097
 
@@ -435,6 +354,9 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/57101
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/27nxhGn.png" group-title="Canais | Adultos", [XX] ADULTO 19
 http://tv.factoryiptv.com:80/jurema10/jurema10/57102
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/27nxhGn.png" group-title="Canais | Adultos", [XX] Adulto 20
+http://tv.factoryiptv.com:80/jurema10/jurema10/57113
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/27nxhGn.png" group-title="Canais | Adultos", [XX] Venus HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/61966
@@ -501,6 +423,12 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/63081
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/27nxhGn.png" group-title="Canais | Adultos [4K]", [XX] Adulto 14 [4K]
 http://tv.factoryiptv.com:80/jurema10/jurema10/63082
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/27nxhGn.png" group-title="Canais | Adultos [4K]", [XX] Adulto 15 [4k]
+http://tv.factoryiptv.com:80/jurema10/jurema10/63083
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/27nxhGn.png" group-title="Canais | Adultos [4K]", [XX] Adulto 16  [4K]
+http://tv.factoryiptv.com:80/jurema10/jurema10/63084
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/27nxhGn.png" group-title="Canais | Adultos", [XX] BRASILEIRINHAS 01
 http://tv.factoryiptv.com:80/jurema10/jurema10/63355
@@ -802,8 +730,14 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/62843
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01]", PFC 4 H265
 http://tv.factoryiptv.com:80/jurema10/jurema10/62844
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01]", HBO 2 H265
+http://tv.factoryiptv.com:80/jurema10/jurema10/62845
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01]", NAT GEO KIDS - H265
 http://tv.factoryiptv.com:80/jurema10/jurema10/62846
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01]", HBO FAMILY H265
+http://tv.factoryiptv.com:80/jurema10/jurema10/62847
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01]", HBO H265
 http://tv.factoryiptv.com:80/jurema10/jurema10/62848
@@ -816,6 +750,9 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/62850
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01]", INVESTIGATION DISC H265
 http://tv.factoryiptv.com:80/jurema10/jurema10/62851
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01]", HBO PLUS H265
+http://tv.factoryiptv.com:80/jurema10/jurema10/62852
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01]", H2 - H265
 http://tv.factoryiptv.com:80/jurema10/jurema10/62853
@@ -897,7 +834,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/62878
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01]", DISC THEATER H265
 http://tv.factoryiptv.com:80/jurema10/jurema10/62879
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Isb9y7x.png" group-title="Canais | Conmebol", CONMEBOL 01 (P)
 http://tv.factoryiptv.com:80/jurema10/jurema10/74044
 
@@ -967,6 +903,9 @@ http://paineliptv8.xyz:2082/victoria2121/123456/23687
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMC HD
 http://paineliptv8.xyz:2082/victoria2121/123456/23688
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AMC HD ²
+http://paineliptv8.xyz:2082/victoria2121/123456/35227
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ARTE 1 HD
 http://paineliptv8.xyz:2082/victoria2121/123456/67511
 
@@ -984,6 +923,9 @@ http://paineliptv8.xyz:2082/victoria2121/123456/23690
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIMAL PLANET HD ¹
 http://paineliptv8.xyz:2082/victoria2121/123456/30202
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ANIMAL PLANET HD ²
+http://paineliptv8.xyz:2082/victoria2121/123456/30203
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", AXN FHD H.265
 http://paineliptv8.xyz:2082/victoria2121/123456/67683
@@ -1078,6 +1020,9 @@ http://paineliptv8.xyz:2082/victoria2121/123456/13502
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BIS FHD
 http://paineliptv8.xyz:2082/victoria2121/123456/8680
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BIS HD
+http://paineliptv8.xyz:2082/victoria2121/123456/8681
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BOOMERANG FHD H.265
 http://paineliptv8.xyz:2082/victoria2121/123456/67689
 
@@ -1117,6 +1062,9 @@ http://paineliptv8.xyz:2082/victoria2121/123456/8692
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL BRASIL HD ¹
 http://paineliptv8.xyz:2082/victoria2121/123456/35230
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CANAL BRASIL HD ²
+http://paineliptv8.xyz:2082/victoria2121/123456/35231
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", COMEDY CENTRAL
 http://paineliptv8.xyz:2082/victoria2121/123456/8718
 
@@ -1147,6 +1095,9 @@ http://paineliptv8.xyz:2082/victoria2121/123456/8699
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARTOON NETWOORK HD ¹
 http://paineliptv8.xyz:2082/victoria2121/123456/38015
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CARTOON NETWOORK HD ²
+http://paineliptv8.xyz:2082/victoria2121/123456/38016
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CAVALEIROS DO FORRÓ
 http://paineliptv8.xyz:2082/victoria2121/123456/20574
 
@@ -1159,6 +1110,9 @@ http://paineliptv8.xyz:2082/victoria2121/123456/20213
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE MARVEL VS DC ²
 http://paineliptv8.xyz:2082/victoria2121/123456/68496
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE DISNEY
+http://paineliptv8.xyz:2082/victoria2121/123456/68497
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE FAROESTE
 http://paineliptv8.xyz:2082/victoria2121/123456/68498
 
@@ -1168,6 +1122,15 @@ http://paineliptv8.xyz:2082/victoria2121/123456/68499
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE PIPOCA 01
 http://paineliptv8.xyz:2082/victoria2121/123456/13081
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE PIPOCA 04
+http://paineliptv8.xyz:2082/victoria2121/123456/13084
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE PIPOCA 07
+http://paineliptv8.xyz:2082/victoria2121/123456/13087
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE PIPOCA 08
+http://paineliptv8.xyz:2082/victoria2121/123456/13088
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE SKY 01
 http://paineliptv8.xyz:2082/victoria2121/123456/13071
 
@@ -1176,6 +1139,9 @@ http://paineliptv8.xyz:2082/victoria2121/123456/13073
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE SKY 04
 http://paineliptv8.xyz:2082/victoria2121/123456/13074
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE SKY 05
+http://paineliptv8.xyz:2082/victoria2121/123456/13075
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CINE SKY 06
 http://paineliptv8.xyz:2082/victoria2121/123456/13076
