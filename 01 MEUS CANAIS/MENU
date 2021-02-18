@@ -1,5 +1,14 @@
 <channels>
 <channel>
+<name>[B]TV ONLINE [COLOR lime] (LISTA TESTE) [/COLOR] [/B] <name>
+<thumbnail>https://i.imgur.com/hWbctsy.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/01%20MEUS%20CANAIS/LISTA%20IPTV</externallink>
+<fanart>https://i.imgur.com/hWbctsy.jpg</fanart>
+<info>MAGUSPLAY TV ONLINE</info>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
+<channel>
 <name>[B]RADIO ONLINE [COLOR lime] [/COLOR] [/B] <name>
 <thumbnail>https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/01%20MEUS%20CANAIS/RADIOS%20ONLINE</externallink>
