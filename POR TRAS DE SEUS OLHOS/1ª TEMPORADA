@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="POR TRÁS DE SEUS OLHOS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y0Qv55qoTODAfsWfNF4RVtAgE6A.jpg" tvg-shift="0" group-title="SERIES",1ª TEMPORADA
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b83e00bf75612b817d089e0726f9210c1948009
