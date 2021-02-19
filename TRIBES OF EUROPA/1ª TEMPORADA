@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TRIBES OF EUROPA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ewEgxHvSJnQxH4nwYUr8yajqHOQ.jpg" tvg-shift="0" group-title="TRIBES OF EUROPA",[B] 1ª TEMPORADA [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bac94e0e60edccb3d8cdac353fb4897e9578ebc
