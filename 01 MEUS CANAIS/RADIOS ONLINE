@@ -404,17 +404,5 @@ http://192.99.150.31:9473/stream
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Tecno Brega
 http://192.99.150.31:8989/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LaqYsJx.png" group-title="Canal OFF? Avise-nos!", Canal OFF? Avise-nos!
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iDGXBOV.png" group-title="Equipe Channels ON", Equipe Magusplay
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iDGXBOV.png" group-title="facebook.com/valfellix", valfellix
-https://www.facebook.com/valfellix
-
-
-#EXTINF:-1 tvg-logo="https://www.museulinguaportuguesa.org.br/wp-content/uploads/2015/12/1-um-numero.jpg" group-title="bit.ly/doarchannelson", AJUDE-NOS!
 #EXTM3U
