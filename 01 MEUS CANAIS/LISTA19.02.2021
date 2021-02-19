@@ -8,6 +8,9 @@
 
 ############################### ABERTOS #####################################
 
+#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="https://starsat.co.za/wp-content/uploads/2016/07/ID-Investigation-Discovery.png" tvg-shift="0" group-title="TV Aberta",Investigação Discovery
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/investigacaodiscovery.m3u8?mu3zAQc9HC3GbwJq=1CxfCh2yn37Av9OHGuB5mw&3U1G7qaTxrPbalZnEx=1613750846
+
 #EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV Aberta",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
