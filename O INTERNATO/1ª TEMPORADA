@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="O INTERNATO" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8TALCpSCPhEt1k8SxA79R5PI7PO.jpg" tvg-shift="0" group-title="O INTERNATO",[B] 1º TEMPORADA [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da0cebc687448183a6cc647f5a19567d81704b85
