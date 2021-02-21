@@ -56,6 +56,7 @@
 <title>[B] T4:E6 - "Episódio 6" [COLOR lime] [/COLOR]  [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D831D3F54FBC40090EDF2B0E743F2E3CAB3331B&dn/view$$lsname=SHINGEKI NO KIOJIN 1080</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AFDC5322D506AA2E813F004D0348771A3FAF63FC&dn/view$$lsname=SHINGEKI NO KIOJIN 720</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67c8861c69077ed3759e1c33e8ffa5802091a2fa&dn/view$$lsname=DUBLADO</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
 <info>MAGUSPLAY</info>
@@ -106,7 +107,18 @@
 
 
 <item>
-<title>[B] T4:E11 - "Episódio 11" [COLOR lime]  AGUARDANDO LANÇAMENTO [/COLOR]  [/B]</title>
+<title>[B] T4:E11 - "Episódio 11" [COLOR lime]  [/COLOR]  [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F93FC11C8D00687EBD2CA502BA474BE1111ABF12&dn/view$$lsname=SHINGEKI NO KIOJIN 1080</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90C301FFF5BAD896668CF0DDACE24A1A7263CE1C&dn/view$$lsname=SHINGEKI NO KIOJIN 720</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
+<info>MAGUSPLAY</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+<item>
+<title>[B] T4:E12 - "Episódio 12" [COLOR lime]  AGUARDANDO LANÇAMENTO [/COLOR]  [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK&dn/view$$lsname=SHINGEKI NO KIOJIN 1080</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK&dn/view$$lsname=SHINGEKI NO KIOJIN 720</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
