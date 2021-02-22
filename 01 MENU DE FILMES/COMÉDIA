@@ -1,7 +1,7 @@
 ##################################################################################### A ##############################################################################################                                                                             
                                                                              
                                                                              
-                                                                             
+                                                                           
 <item>
 <title>[B] AMOR²  [COLOR lime][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a3b109b280b917882bfb7ab36b7367939316781</link>
@@ -40,7 +40,19 @@
 </info>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
+<item>
+<title>[B] A CAIXA DE PANDORA  [COLOR lime][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6eb9cc6bc430c9d9651f1768d73bd580b97903f3</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2jjXEF4loxfl6OnPeXhViCWTtim.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2jjXEF4loxfl6OnPeXhViCWTtim.jpg</fanart>
+<info> 
+[COLOR green]Ano:[/COLOR] 2020
+[COLOR green]Genero:[/COLOR] COMÉDIA DRAMA
+[COLOR green]Idioma:[/COLOR] DUBLADO
+[COLOR green]Resolução:[/COLOR] HD 1080p
+[COLOR green]Sinopse:[/COLOR] Uma diretora de coro de uma igreja conservadora herda o clube drag club de seu filho falecido em San Francisco.
+</info>
+</item>
 
 
 <item>
