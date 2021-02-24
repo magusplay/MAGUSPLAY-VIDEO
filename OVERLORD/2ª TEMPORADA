@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OVERLORD" tvg-name="OVERLORD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1dVyeauPEJwa4Uv6K1ESuhi8Rb6.jpg" tvg-shift="0" group-title="OVERLORD",[B] 2ª TEMPORADA [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:344e4be2962dbd2d9b5c40b7c3bf1ce50d189cba
