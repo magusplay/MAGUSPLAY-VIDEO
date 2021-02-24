@@ -4,3 +4,7 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:331c544dbf213a57366
 
 #EXTINF:-1 tvg-id="OVERLORD" tvg-name="OVERLORD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1dVyeauPEJwa4Uv6K1ESuhi8Rb6.jpg" tvg-shift="0" group-title="OVERLORD",[B] 2ª TEMPORADA [/B]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:344e4be2962dbd2d9b5c40b7c3bf1ce50d189cba
+
+
+#EXTINF:-1 tvg-id="OVERLORD" tvg-name="OVERLORD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1dVyeauPEJwa4Uv6K1ESuhi8Rb6.jpg" tvg-shift="0" group-title="OVERLORD",[B] 3ª TEMPORADA [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4D1999F8FE252BFB42F70DC4908E0F200486A68F
