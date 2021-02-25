@@ -1,17 +1,21 @@
-<channels>
-<channel>
-<name>[B]1ª TEMPORADA [COLOR lime] [/COLOR] [/B] <name>
+<item>
+        <title>[B][COLOR white] 1ª TEMPORADA [/COLOR][/B]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/ANNE%20COM%20E/1%C2%AA%20TEMPORADA</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xWdSSB1La6FcXZUuuwvcqvB6Kdf.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/ANNE%20COM%20E/1%C2%AA%20TEMPORADA</externallink>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xWdSSB1La6FcXZUuuwvcqvB6Kdf.jpg</fanart>
-<info> MAGUSPLAY</info>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<info>
+[COLOR green]Sinopse:[/COLOR] MAGUSPLAY SERIES</info>
+        </item>
+##############################################################
 
-<channels>
-<channel>
-<name>[B]2ª TEMPORADA [COLOR lime] [/COLOR] [/B] <name>
+<item>
+        <title>[B][COLOR white] 2ª TEMPORADA [/COLOR][/B]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/ANNE%20COM%20E/2%C2%AA%20TEMPORADA</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xWdSSB1La6FcXZUuuwvcqvB6Kdf.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/ANNE%20COM%20E/2%C2%AA%20TEMPORADA</externallink>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xWdSSB1La6FcXZUuuwvcqvB6Kdf.jpg</fanart>
-<info> MAGUSPLAY</info>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<info>
+[COLOR green]Sinopse:[/COLOR] MAGUSPLAY SERIES</info>
+        </item>
+##############################################################
