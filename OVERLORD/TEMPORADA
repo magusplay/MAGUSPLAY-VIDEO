@@ -1,23 +1,32 @@
-<channels>
-<channel>
-<name>[B]1ª TEMPORADA [COLOR lime] [/COLOR] [/B] <name>
+<item>
+        <title>[B][COLOR white] 1ª TEMPORADA [/COLOR][/B]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/OVERLORD/1%C2%AA%20TEMPORADA</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1dVyeauPEJwa4Uv6K1ESuhi8Rb6.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/OVERLORD/1%C2%AA%20TEMPORADA</externallink>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1dVyeauPEJwa4Uv6K1ESuhi8Rb6.jpg</fanart>
-<info>MAGUSPLAY</info>
+<info>
+[COLOR green]Sinopse:[/COLOR] MAGUSPLAY ANIMES</info>
+        </item>
+##############################################################
 
-<channels>
-<channel>
-<name>[B]2º TEMPORADA [COLOR lime] [/COLOR] [/B] <name>
+<item>
+        <title>[B][COLOR white] 2ª TEMPORADA [/COLOR][/B]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/OVERLORD/2%C2%AA%20TEMPORADA</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1dVyeauPEJwa4Uv6K1ESuhi8Rb6.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/OVERLORD/2%C2%AA%20TEMPORADA</externallink>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1dVyeauPEJwa4Uv6K1ESuhi8Rb6.jpg</fanart>
-<info>MAGUSPLAY</info>
+<info>
+[COLOR green]Sinopse:[/COLOR] MAGUSPLAY ANIMES</info>
+        </item>
+##############################################################
 
-<channels>
-<channel>
-<name>[B]3º TEMPORADA [COLOR lime] [/COLOR] [/B] <name>
+<item>
+        <title>[B][COLOR white] 3ª TEMPORADA [/COLOR][/B]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/OVERLORD/3%C2%AA%20TEMPORADA</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1dVyeauPEJwa4Uv6K1ESuhi8Rb6.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/OVERLORD/3%C2%AA%20TEMPORADA</externallink>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1dVyeauPEJwa4Uv6K1ESuhi8Rb6.jpg</fanart>
-<info>MAGUSPLAY</info>
+<info>
+[COLOR green]Sinopse:[/COLOR] MAGUSPLAY ANIMES</info>
+        </item>
+##############################################################
