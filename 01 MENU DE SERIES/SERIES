@@ -1,17 +1,17 @@
 ###################################################################################### A ######################################################################################
-<channels>
-<channel>
-<name>[B][COLOR white] ANNE COM E  [/COLOR] [COLOR lime] (Torrent) [/COLOR] [/B] <name>
+<item>
+        <title>[B][COLOR white] ANNE COM E [/COLOR][/B]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/ANNE%20COM%20E/TEMPORADA</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xWdSSB1La6FcXZUuuwvcqvB6Kdf.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/ANNE%20COM%20E/TEMPORADA</externallink>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xWdSSB1La6FcXZUuuwvcqvB6Kdf.jpg</fanart>
-<info> 
+<info>
 [COLOR green]Total Temporada:[/COLOR] 2
 [COLOR green]Ano:[/COLOR] 2017
 [COLOR green]Genero:[/COLOR] DRAMA FAMILIA
-[COLOR green]Sinopse:[/COLOR] Uma órfã destemida e determinada encontra um lar improvável junto de uma solteirona e do seu gentil irmão, ambos solteiros. Baseado em "Ana dos Cabelos Ruivos".
-</info>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[COLOR green]Sinopse:[/COLOR] Uma órfã destemida e determinada encontra um lar improvável junto de uma solteirona e do seu gentil irmão, ambos solteiros. Baseado em "Ana dos Cabelos Ruivos".</info>
+        </item>
+##############################################################
 <channels>
 <channel>
 <name>[B][COLOR white] A MATILHA  [/COLOR] [COLOR lime] (Torrent) [/COLOR] [/B] <name>
