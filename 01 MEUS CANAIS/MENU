@@ -1,20 +1,20 @@
-<channels>
-<channel>
-<name>[B]TV ONLINE [COLOR lime] (LISTA TESTE) [/COLOR] [/B] <name>
+<item>
+        <title>[B][COLOR white] TV ONLINE [/COLOR][COLOR lime] (TEMPORÁRIO) [/COLOR][/B]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/01%20MEUS%20CANAIS/LISTA19.02.2021</externallink>
 <thumbnail>https://i.imgur.com/hWbctsy.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/01%20MEUS%20CANAIS/LISTA19.02.2021</externallink>
 <fanart>https://i.imgur.com/hWbctsy.jpg</fanart>
-<info>MAGUSPLAY TV ONLINE</info>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<info>MAGUSPLAY TV ONLINE TESTE</info>
+        </item>
+##############################################################
 
-https://bit.ly/JuniorTVOnline
-http://lib.bz
 
-<channels>
-<channel>
-<name>[B]RADIO ONLINE [COLOR lime] [/COLOR] [/B] <name>
+<item>
+        <title>[B][COLOR white] RADIO ONLINE [/COLOR][COLOR lime] (TEMPORÁRIO) [/COLOR][/B]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/01%20MEUS%20CANAIS/RADIOS%20ONLINE</externallink>
 <thumbnail>https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/01%20MEUS%20CANAIS/RADIOS%20ONLINE</externallink>
 <fanart>https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png</fanart>
-<info>MAGUSPLAY RADIO</info>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<info>MAGUSPLAY RADIO ONLINE</info>
+        </item>
+##############################################################
