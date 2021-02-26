@@ -1,8 +1,9 @@
-<channels>
-<channel>
-<name>[B]1ª TEMPORADA [COLOR lime] [/COLOR] [/B] <name>
+<item>
+        <title>[B][COLOR white] 1ª TEMPORADA [/COLOR][/B]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/THE%20BIG%20DAY/1%C2%AA%20TEMPORADA</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pK2Lm0NznaURnlDaU023WMsAAtR.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/THE%20BIG%20DAY/1%C2%AA%20TEMPORADA</externallink>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pK2Lm0NznaURnlDaU023WMsAAtR.jpg</fanart>
 <info>MAGUSPLAY</info>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+        </item>
+##############################################################
