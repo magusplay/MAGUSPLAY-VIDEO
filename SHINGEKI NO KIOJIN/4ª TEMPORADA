@@ -1,8 +1,7 @@
 <item>
 <title>[B] T4:E1 - "Episódio 1" [COLOR lime]  [/COLOR]  [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:050C717BEF74535812AB7C393E0944638BCF3085&dn/view$$lsname=SHINGEKI NO KIOJIN 720</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D829891969B9971E1D698DC0A4224362D4E0CB95&dn/view$$lsname=SHINGEKI NO KIOJIN 1080</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B057B3F6DB868C4338CB50B9503E3F19F88C4F36&dn/view$$lsname=DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:050C717BEF74535812AB7C393E0944638BCF3085&dn\$nome=SHINGEKI NO KIOJIN 720</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D829891969B9971E1D698DC0A4224362D4E0CB95&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
 <info>MAGUSPLAY</info>
@@ -10,9 +9,8 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[B] T4:E2 - "Episódio 2" [COLOR lime] [/COLOR]  [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:903FECF5AEEE3A7106BDD420A42CD7B439902CD5&dn/view$$lsname=SHINGEKI NO KIOJIN 720</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f47181b75fe7037c49f377e89cea654c3008c11&dn/view$$lsname=SHINGEKI NO KIOJIN 1080</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3E91A4F6DFFE920597288F1E485F971F2B63BFBD&dn/view$$lsname=DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:903FECF5AEEE3A7106BDD420A42CD7B439902CD5&dn\$nome=SHINGEKI NO KIOJIN 720</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f47181b75fe7037c49f377e89cea654c3008c11&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
 <info>MAGUSPLAY</info>
@@ -20,9 +18,8 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[B] T4:E3 - "Episódio 3" [COLOR lime]  [/COLOR]  [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4462dde87d7f97eb697d770418c90cdb77fd673a&dn/view$$lsname=SHINGEKI NO KIOJIN 720</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e14b07959e3a4d14906befe2d1e80e38d85e0fee&dn/view$$lsname=SHINGEKI NO KIOJIN 1080</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F8C2D29C8137986FD3A3D021D72C7CCF7EA4640&dn/view$$lsname=DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4462dde87d7f97eb697d770418c90cdb77fd673a&dn\$nome=SHINGEKI NO KIOJIN 720</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e14b07959e3a4d14906befe2d1e80e38d85e0fee&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
 <info>MAGUSPLAY</info>
@@ -32,9 +29,8 @@
 
 <item>
 <title>[B] T4:E4 - "Episódio 4" [COLOR lime] [/COLOR]  [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:841bc083338f72b8f5e208695d8213be24ba5d4a&dn/view$$lsname=SHINGEKI NO KIOJIN 720</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2a3b44625d75501c5f1d336ef35f9e11e7afb2f&dn/view$$lsname=SHINGEKI NO KIOJIN 1080</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad8f078adf5bd319148fc4dbc229858c88c6f361&dn/view$$lsname=DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:841bc083338f72b8f5e208695d8213be24ba5d4a&dn\$nome=SHINGEKI NO KIOJIN 720</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2a3b44625d75501c5f1d336ef35f9e11e7afb2f&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
 <info>MAGUSPLAY</info>
@@ -43,9 +39,8 @@
 
 <item>
 <title>[B] T4:E5 - "Episódio 5" [COLOR lime] [/COLOR]  [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23316362BAFC3762F1CE8192686880EB69D70487&dn/view$$lsname=SHINGEKI NO KIOJIN 720</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B2C6E69C7E0FDE6F6F72E06E90CFD0CE5DFEAA77&dn/view$$lsname=SHINGEKI NO KIOJIN 1080</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42afe4b57f27784d3ad1ead612b6bab15935637f&dn/view$$lsname=DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23316362BAFC3762F1CE8192686880EB69D70487&dn\$nome=SHINGEKI NO KIOJIN 720</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B2C6E69C7E0FDE6F6F72E06E90CFD0CE5DFEAA77&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
 <info>MAGUSPLAY</info>
@@ -54,9 +49,8 @@
 
 <item>
 <title>[B] T4:E6 - "Episódio 6" [COLOR lime] [/COLOR]  [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D831D3F54FBC40090EDF2B0E743F2E3CAB3331B&dn/view$$lsname=SHINGEKI NO KIOJIN 1080</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AFDC5322D506AA2E813F004D0348771A3FAF63FC&dn/view$$lsname=SHINGEKI NO KIOJIN 720</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67c8861c69077ed3759e1c33e8ffa5802091a2fa&dn/view$$lsname=DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D831D3F54FBC40090EDF2B0E743F2E3CAB3331B&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AFDC5322D506AA2E813F004D0348771A3FAF63FC&dn\$nome=SHINGEKI NO KIOJIN 720</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
 <info>MAGUSPLAY</info>
@@ -65,8 +59,8 @@
 
 <item>
 <title>[B] T4:E7 - "Episódio 7" [COLOR lime]  [/COLOR]  [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:947CD4824C6BF4849DE85A773DF5E59F3914F081&dn/view$$lsname=SHINGEKI NO KIOJIN 1080</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FE949FF9B0719A195500D40B4BC1528539B0CCED&dn/view$$lsname=SHINGEKI NO KIOJIN 720</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:947CD4824C6BF4849DE85A773DF5E59F3914F081&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FE949FF9B0719A195500D40B4BC1528539B0CCED&dn\$nome=SHINGEKI NO KIOJIN 720</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
 <info>MAGUSPLAY</info>
@@ -75,8 +69,8 @@
 
 <item>
 <title>[B] T4:E8 - "Episódio 8" [COLOR lime] [/COLOR]  [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7bd8db83bf70cad8fb580ea7506be86671332c5&dn/view$$lsname=SHINGEKI NO KIOJIN 1080</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d64618aefdcd2573b27b08d4450ab4fd60d075c0&dn/view$$lsname=SHINGEKI NO KIOJIN 720</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7bd8db83bf70cad8fb580ea7506be86671332c5&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d64618aefdcd2573b27b08d4450ab4fd60d075c0&dn\$nome=SHINGEKI NO KIOJIN 720</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
 <info>MAGUSPLAY</info>
@@ -85,8 +79,8 @@
 
 <item>
 <title>[B] T4:E9 - "Episódio 9" [COLOR lime] [/COLOR]  [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a6b85e131de0825d977bcf060472c94a8924402&dn/view$$lsname=SHINGEKI NO KIOJIN 1080</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cce268bd3de1b2a495b051af7f5c285280baf243&dn/view$$lsname=SHINGEKI NO KIOJIN 720</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a6b85e131de0825d977bcf060472c94a8924402&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cce268bd3de1b2a495b051af7f5c285280baf243&dn\$nome=SHINGEKI NO KIOJIN 720</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
 <info>MAGUSPLAY</info>
@@ -96,8 +90,8 @@
 
 <item>
 <title>[B] T4:E10 - "Episódio 10" [COLOR lime]   [/COLOR]  [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04d910424e065f86c3a6bac997f7a7733d3e3f1b&dn/view$$lsname=SHINGEKI NO KIOJIN 1080</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac84b0a8978fbf7919d84a3ed694827dca6dcc1c&dn/view$$lsname=SHINGEKI NO KIOJIN 720</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04d910424e065f86c3a6bac997f7a7733d3e3f1b&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac84b0a8978fbf7919d84a3ed694827dca6dcc1c&dn\$nome=SHINGEKI NO KIOJIN 720</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
 <info>MAGUSPLAY</info>
@@ -108,8 +102,8 @@
 
 <item>
 <title>[B] T4:E11 - "Episódio 11" [COLOR lime]  [/COLOR]  [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F93FC11C8D00687EBD2CA502BA474BE1111ABF12&dn/view$$lsname=SHINGEKI NO KIOJIN 1080</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90C301FFF5BAD896668CF0DDACE24A1A7263CE1C&dn/view$$lsname=SHINGEKI NO KIOJIN 720</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F93FC11C8D00687EBD2CA502BA474BE1111ABF12&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90C301FFF5BAD896668CF0DDACE24A1A7263CE1C&dn\$nome=SHINGEKI NO KIOJIN 720</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
 <info>MAGUSPLAY</info>
@@ -119,8 +113,8 @@
 
 <item>
 <title>[B] T4:E12 - "Episódio 12" [COLOR lime]  AGUARDANDO LANÇAMENTO [/COLOR]  [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK&dn/view$$lsname=SHINGEKI NO KIOJIN 1080</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK&dn/view$$lsname=SHINGEKI NO KIOJIN 720</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK&dn\$nome=SHINGEKI NO KIOJIN 720</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
 <info>MAGUSPLAY</info>
