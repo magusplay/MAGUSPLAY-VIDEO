@@ -1,201 +1,128 @@
-<item>
-<title>[B] Episódio 01 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94656.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] O Cometa Cósmico [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=chIWAsgHpIs&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi
+
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] Ato do Desaparecimento [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gCxx03ZvF1Y&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=2
 
 
-<item>
-<title>[B] Episódio 02 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94658.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] A Diabólica Criatura de Phantos [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WVpFmpTW8kc&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=3
 
 
-<item>
-<title>[B] Episódio 03 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94660.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] A Origem de Tila [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HiyhN-orLFA&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=4
 
 
-<item>
-<title>[B] Episódio 04 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94662.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] A Maldição da Pedra Mágica [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7fctGM7TYBA&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=5
 
 
-
-<item>
-<title>[B] Episódio 05 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94664.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] O Corredor do Tempo [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=anjb5ew-xOc&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=6
 
 
-<item>
-<title>[B] Episódio 06 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94666.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] A Invasão do dragão [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=i369VqryXQo&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=7
 
 
-<item>
-<title>[B] Episódio 07 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94668.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] Um Amigo em Perigo [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=K6S8W4DZyTk&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=8
 
 
-<item>
-<title>[B] Episódio 08 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94670.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B]  As Máscaras do Poder [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YH_9Z4g2F_o&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=9
 
 
-<item>
-<title>[B] Episódio 09 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94672.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] O Plano de Maligna [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6-Nekoa2gf8&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=10
 
 
-<item>
-<title>[B] Episódio 10 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94674.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] Tal Pai, Tal Filho [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qzHwMER4TL8&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=11
 
 
-<item>
-<title>[B] Episódio 11 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94676.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] O Despertar de Colossor [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PH11a7MRDvw&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=12
 
 
-<item>
-<title>[B] Episódio 12 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94678.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] Apresentação Brutal [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=s-KrNPJPWL8&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=13
 
 
-<item>
-<title>[B] Episódio 13 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94680.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] O Reino do Monstro [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FHa6vfaseCY&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=14
 
 
-<item>
-<title>[B] Episódio 14 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94682.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] Daimar, o Demônio [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b2FdlOJXljI&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=15
 
 
-<item>
-<title>[B] Episódio 15 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94684.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] Criaturas do Pântano de Tar [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qWaFFb5chK0&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=16
 
 
-<item>
-<title>[B] Episódio 16 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94686.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] A Busca de He Man [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=f5VPSRrhR2Q&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=17
 
 
-<item>
-<title>[B] Episódio 17 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94688.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] O Despertar do Dragão [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=R_hZTzAOshQ&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=18
 
 
-<item>
-<title>[B] Episódio 18 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94690.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] O Primo Real [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U9Q6tC3aoWo&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=19
 
 
-<item>
-<title>[B] Episódio 19 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94692.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] A Música de Celice [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U81q43HXTmk&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=20
 
 
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] O Tio Favorito de Gorpo [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=d6vXuGFSnKE&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=21
 
 
-<item>
-<title>[B] Episódio 20 [COLOR lime] (DUBLADO) [/COLOR]  [/B]</title>
-<link>https://www.animeson.club/he-man-e-os-mestres-do-universo-dublado/94694.mp4</link>
-<thumbnail>https://www.animeshd.online/images/covers/he-man.webp</thumbnail>
-<fanart>https://www.animeshd.online/images/covers/he-man.webp</fanart>
-<info> DUBLADO </info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] O Mago da Montanha de Pedra [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=E9VXoYXp8N0&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=22
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] A Semente do Mal [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tAT-fV2NP0A&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=23
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] Desafio nas Terras [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EISPCWdoDDU&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=24
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] O Retorno do Tio Gorpo [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7_gRp23ljuE&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=25
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] A Deserção [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vxoDTcw7Pjk&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=26
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] A Conquista de Grayskull [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uesZGhUtljI&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=27
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] Um Conto de Duas Cidades [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=01_UZQpeVNU&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=28
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] A Busca Pelo O V A F [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5Gj7PlHvmWw&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=29
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] A Criança Estelar [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FU9NIVqZCeo&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=30
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] Presente do Dragão [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tWgAutT3zmo&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=31
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HEMAN" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iaUbCbPOFKgDYL2t0vAdeGYx64o.jpg" tvg-shift="0" group-title="HE-MAN",[B] O Despertar dos Amanhecidos [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HzCmitOEmmI&list=PLOTKCRIU7cJg72vskT1MJyalDcC74Yedi&index=32
+
+
