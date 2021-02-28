@@ -66,7 +66,16 @@
 
 
 <item>
-<title>[B] T1:E8 - "Episódio 8" [COLOR lime] AGUARDANDO LANÇAMENTO  [/COLOR]  [/B]</title>
+<title>[B] T1:E8 - "Episódio 8" [COLOR lime] [/COLOR]  [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc6f47f7303557b169682ba729ce162d07478fce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg</fanart>
+<info>[COLOR green]Sinopse:[/COLOR] Após um erro de computação no Departamento de Defesa, um vírus é liberado, e um milhão de contatos casuais formam uma cadeia de morte:</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[B] T1:E9 - "Episódio 9" [COLOR lime] AGUARDANDO LANÇAMENTO  [/COLOR]  [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg</fanart>
