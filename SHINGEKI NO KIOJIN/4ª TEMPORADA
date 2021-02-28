@@ -112,7 +112,19 @@
 
 
 <item>
-<title>[B] T4:E12 - "Episódio 12" [COLOR lime]  AGUARDANDO LANÇAMENTO [/COLOR]  [/B]</title>
+<title>[B] T4:E12 - "Episódio 12" [COLOR lime] [/COLOR]  [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12875e0508e87f9680b8aa2ba2c2bf097ce3ba05&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2130d80496e873ea3d77a95b21ad1d67a0b071e5&dn\$nome=SHINGEKI NO KIOJIN 720</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
+<info>MAGUSPLAY</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+<item>
+<title>[B] T4:E13 - "Episódio 13" [COLOR lime]  AGUARDANDO LANÇAMENTO [/COLOR]  [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK&dn\$nome=SHINGEKI NO KIOJIN 720</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
