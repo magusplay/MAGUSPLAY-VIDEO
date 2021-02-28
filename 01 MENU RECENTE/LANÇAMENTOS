@@ -275,8 +275,8 @@ SERIES
 
 <item>
 <title>[B] A FREIRA   [COLOR lime][/COLOR] [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7D14D57D5ACDE9AC1E9DDE85AD0D919707B77EA2&dn/view$$lsname=MAGUSPLAY 720p</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E0500FBCB24D1BA01838D3F54815F4B4D6286998&dn/view$$lsname=MAGUSPLAY 1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7D14D57D5ACDE9AC1E9DDE85AD0D919707B77EA2&dn\$nome=MAGUSPLAY 720p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E0500FBCB24D1BA01838D3F54815F4B4D6286998&dn\$nome=MAGUSPLAY 1080p</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28vxo5DvV0nHWTbYQL8gN3hmuli.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28vxo5DvV0nHWTbYQL8gN3hmuli.jpg</fanart>
 <info> 
@@ -291,8 +291,8 @@ SERIES
 
 <item>
 <title>[B] SHINGEKI NO KIOJIN T4:E11 - "Episódio 11" [COLOR lime]  [/COLOR]  [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F93FC11C8D00687EBD2CA502BA474BE1111ABF12&dn/view$$lsname=SHINGEKI NO KIOJIN 1080</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90C301FFF5BAD896668CF0DDACE24A1A7263CE1C&dn/view$$lsname=SHINGEKI NO KIOJIN 720</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F93FC11C8D00687EBD2CA502BA474BE1111ABF12&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90C301FFF5BAD896668CF0DDACE24A1A7263CE1C&dn\$nome=SHINGEKI NO KIOJIN 720</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
 <info>MAGUSPLAY</info>
@@ -327,8 +327,8 @@ SERIES
 
 <item>
 <title>[B] TODOS OS MORTOS   [COLOR lime][/COLOR] [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b82f9959471dd839fbb7a4bcb2bad4ceb6635c3&dn/view$$lsname=MAGUSPLAY 720p</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:318d0cc89835fb16883dfc4e5ec8bb19883cc871&dn/view$$lsname=MAGUSPLAY 1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b82f9959471dd839fbb7a4bcb2bad4ceb6635c3&dn\$nome=MAGUSPLAY 720p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:318d0cc89835fb16883dfc4e5ec8bb19883cc871&dn\$nome=MAGUSPLAY 1080p</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t84JN0QfTxnYqyaYzgkYDbXSie8.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t84JN0QfTxnYqyaYzgkYDbXSie8.jpg</fanart>
 <info> 
@@ -463,8 +463,8 @@ SERIES
 
 <item>
 <title>[B] O HOMEM CERTO   [COLOR lime][/COLOR] [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d106c807e476497eec4e367a8cde3d6d9dce3ab&dn/view$$lsname=MAGUSPLAY 720p</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab4138f004195cde6920978e885359d307919d29&dn/view$$lsname=MAGUSPLAY 1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d106c807e476497eec4e367a8cde3d6d9dce3ab&dn\$nome=MAGUSPLAY 720p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab4138f004195cde6920978e885359d307919d29&dn\$nome=MAGUSPLAY 1080p</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sSxy2Ej25XoekfO8bl8nNyohaI7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sSxy2Ej25XoekfO8bl8nNyohaI7.jpg</fanart>
 <info> 
@@ -539,8 +539,8 @@ SERIES
 
 <item>
 <title>[B] MARA: O DEMÔNIO DO SONO   [COLOR lime][/COLOR] [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fb186d5c012af104286e1138e2acb9847573732&dn/view$$lsname=720p</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b531273a847e3f44a06b1da6b151e6d937024294&dn/view$$lsname=1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fb186d5c012af104286e1138e2acb9847573732&dn\$nome=720p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b531273a847e3f44a06b1da6b151e6d937024294&dn\$nome=1080p</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8M8l7EvMthoGVoFpVSqYiTTS4ro.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8M8l7EvMthoGVoFpVSqYiTTS4ro.jpg</fanart>
 <info> 
@@ -569,8 +569,8 @@ SERIES
 
 <item>
 <title>[B] PROUD MARY: A PROFISSIONAL   [COLOR lime][/COLOR] [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6d18f9ce928c0ef571ba0c0db7b515f6582beea&dn/view$$lsname=720p</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a2929f01d1f7c6ff79a1c9d0926dcc927940c80&dn/view$$lsname=1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6d18f9ce928c0ef571ba0c0db7b515f6582beea&dn\$nome=720p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a2929f01d1f7c6ff79a1c9d0926dcc927940c80&dn\$nome=1080p</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rFm5mHVsf3gzEalFY51J2u4zxZj.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rFm5mHVsf3gzEalFY51J2u4zxZj.jpg</fanart>
 <info> 
@@ -725,8 +725,8 @@ SERIES
 
 <item>
 <title>[B] ADEUS   [COLOR lime][/COLOR] [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fb6b47c6090b6da0e90117076074a316c53dd4c&dn/view$$lsname=720p</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ba38a8d5bfedeb5fa8cd5f704bb1fbf501aefa7&dn/view$$lsname=1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fb6b47c6090b6da0e90117076074a316c53dd4c&dn\$nome=720p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ba38a8d5bfedeb5fa8cd5f704bb1fbf501aefa7&dn\$nome=1080p</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bWX7PHjRwSPk0zwWg2SykH1QrMl.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bWX7PHjRwSPk0zwWg2SykH1QrMl.jpg</fanart>
 <info> 
@@ -740,8 +740,8 @@ SERIES
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>[B] O NEVOEIRO  [COLOR lime][/COLOR] [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A66639B7E7F408E31539FE3CB783BC59D6BAD931&dn/view$$lsname=720p</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:489fbb3626864339c37a8daa040ea2c40f915939&dn/view$$lsname=1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A66639B7E7F408E31539FE3CB783BC59D6BAD931&dn\$nome=720p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:489fbb3626864339c37a8daa040ea2c40f915939&dn\$nome=1080p</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rAfPZNxmYWj3lG0aCbmyiukMXiz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rAfPZNxmYWj3lG0aCbmyiukMXiz.jpg</fanart>
 <info> 
