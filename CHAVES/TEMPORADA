@@ -1,0 +1,78 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Vamos Ao Cinema [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=napcRDENmgQ&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Vamos Ao Cinema (1979) Parte 2 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XQ5j7vkeDP8&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=2
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] O Dia De São Valentim (1979) Parte 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8L8R54_YBRk&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=3
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] O Dia De São Valentim (1979) Parte 2 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0AeNm9Z8RzY&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] A Casinha Do Quico (1977) Parte 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7UZEH4RzbX4&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=5
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] A Casinha Do Quico (1977) Parte 2 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mGmxKG4l6hU&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=6
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] A Limpeza Do Pátio (1976) Parte 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=njrSJHQYS7U&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=7
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] A Limpeza Do Pátio (1976) Parte 2 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_41sVc5YyjM&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Eu Não Creio Em Fantasma Mais Sei Que Existe (1976) Parte 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7Qx4pA_iFU4&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=9
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Eu Não Creio Em Fantasma Mais Sei Que Existe (1976) Parte 2 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=S8b_iERNbWY&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=10
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] O Castigo Vem A Cavalo (1976) Parte 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CcOUgS8Jdvs&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=11
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] O Castigo Vem A Cavalo (1976) Parte 2 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tuVlrAcnGUs&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=12
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] O Dinheiro Perdido (1978) Parte 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VG-UBywU-Hk&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=13
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] O Dinheiro Perdido (1978) Parte 2 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8eYx745K2Mk&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=14
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Os Carpinteros Primeira Parte (1977) Parte 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gZlvLHGj79A&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=15
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Os Carpinteiros Primeira Parte (1977) Parte 2 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EyxFCrwNOcI&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=16
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Quanto Mais Quente Pior Segunda Parte (1977) Parte 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7xFWzWEelGM&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=17
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Quanto Mais Quente Pior Segunda Parte (1977) Parte 2 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JJ0C-XWvLRI&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=18
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Os Chifres Queimados Do Professor Girafales (1978) Parte 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1NlLe3mj6Zs&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=19
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Os Chifres Queimados Do Professor Girafales (1978) Parte 2 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=doa0K08Yrs4&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=20
