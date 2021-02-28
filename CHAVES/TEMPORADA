@@ -76,3 +76,80 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1NlLe3
 
 #EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Os Chifres Queimados Do Professor Girafales (1978) Parte 2 [/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=doa0K08Yrs4&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=20
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Um Astro Cai Na Vila (1979) Parte 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=RUx5EjP_A3Y&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=21
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Um Astro Cai Na Vila (1979) Parte 2 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ebWXk3hEETg&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=22
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Quem Baixa As Calça Ficam Sem Elas (1974) Parte 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U8RBqXY-8KE&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=23
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Quem Baixa As Calça Ficam Sem Elas (1974) Parte 2 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Wgf_Jgthn7c&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=24
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] A Mudinha De Chirimoia (1978) Parte 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HCqLXu_doRQ&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=25
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] A Mudinha De Chirimoia (1978) Parte 2 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1vXSa9SXhPw&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=26
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Um Finíssimo Tecido Made in Taubaté (1977) Parte 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pfd4lYT3Hak&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=27
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Um Finíssimo Tecido Made in Taubaté (1977) Parte 2 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Y_dNsVZzS-I&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=28
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Os Remédio Do Quico (1976) Parte 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CbmRSZSWGME&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=29
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Os Remedio Do Quico (1976) Parte 2 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5e9Bjae9gRc&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=30
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] A Catapora Da Chiquinha - Parte 1  [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wzLoacQmntQ&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=31
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] A Catapora Da Chiquinha - Parte 2  [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Qv3-9APfPTo&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=32
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] O Restaurante Da Dona Florinda - Parte 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MoSA4mGqOuc&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=33
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] O Restaurante Da Dona Florinda - Parte 2  [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0-5Ki--Kvdw&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=34
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] O Fantasma Da Vila - Parte 1  [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_T7Zh0MIziU&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=35
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B]  O Fantasma Da Vila - Parte 2  [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rMoj51-D7N0&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=36
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Os Penetras - Parte 1  [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sXyo3jPn-v0&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=37
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Os Penetras - Parte 2  [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sazPVb7C3P4&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=38
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Dona Florinda Abre Um Restaurante - Parte 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6ATe3Fgvq28&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=39
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Dona Florinda Abre Um Restaurante - Parte 2  [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ludwh8KRHMg&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb&index=40
