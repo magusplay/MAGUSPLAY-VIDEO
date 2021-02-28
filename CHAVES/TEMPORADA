@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Vamos Ao Cinema [/B]
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Vamos Ao Cinema (1979) Parte 1 [/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=napcRDENmgQ&list=PLrg4fp_5Gv_aenJHSEAKKxrh_cEmK68qb
 
 #EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" tvg-shift="0" group-title="CHAVES",[B] Vamos Ao Cinema (1979) Parte 2 [/B]
