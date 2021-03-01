@@ -11,6 +11,8 @@
 </info>
         </item>
 ####################################################################################################################################################################################
+
+
 <item>
 <title>[B] shingeki no kyojin T4:E12 - "Episódio 12" [COLOR lime] [/COLOR]  [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12875e0508e87f9680b8aa2ba2c2bf097ce3ba05&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
@@ -21,8 +23,6 @@
 </item>
 
 
-
-
 <item>
 <title>[B] THE STAND T1:E8 - "Episódio 8" [COLOR lime] [/COLOR]  [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc6f47f7303557b169682ba729ce162d07478fce</link>
@@ -31,6 +31,21 @@
 <info>[COLOR green]Sinopse:[/COLOR] Após um erro de computação no Departamento de Defesa, um vírus é liberado, e um milhão de contatos casuais formam uma cadeia de morte:</info>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[B] O CORONEL E O LOBISOMEN   [COLOR lime][/COLOR] [/B]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2wZvyA6sy0I&feature=youtu.be</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lxQJNMT3Oc3axg2LtVcMIaDmyVP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lxQJNMT3Oc3axg2LtVcMIaDmyVP.jpg</fanart>
+<info> 
+[COLOR green]Ano:[/COLOR] 2005
+[COLOR green]Genero:[/COLOR] DRAMA NACIONAL
+[COLOR green]Idioma:[/COLOR] DUBLADO
+[COLOR green]Resolução:[/COLOR] HD 720p
+[COLOR green]Sinopse:[/COLOR] Ponciano de Azeredo Furtado (Diogo Vilela), coronel de patente e fazendeiro, luta contra Pernambuco Nogueira (Selton Mello), seu irmão de criação, para manter as terras da Fazenda Sobradinho e conquistar o coração da amada prima Esmeraldina (Ana Paula Arósio). Para vencer esta batalha, Ponciano enfrenta feras enormes, experimenta a vida boêmia na cidade, combate agiotas e gatunos, e usa toda a sua artimanha para desencantar assombrações.
+</info>
+</item>
+##############################################################
 
 <item>
 <title>[B] NOTORIOS B.I.G: A LENDA DO HIP HOP   [COLOR lime][/COLOR] [/B]</title>
