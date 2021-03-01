@@ -48,6 +48,21 @@
 ##############################################################
 
 <item>
+<title>[B] O AUTO DA COMPADECIDA  [COLOR lime][/COLOR] [/B]</title>
+<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZQ4QWlh9KeE&feature=youtu.be</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m8eFedsS7vQCZCS8WGp5n1bVD0q.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m8eFedsS7vQCZCS8WGp5n1bVD0q.jpg</fanart>
+<info> 
+[COLOR green]Ano:[/COLOR] 2000
+[COLOR green]Genero:[/COLOR] COMÉDIA NACIONAL
+[COLOR green]Idioma:[/COLOR] DUBLADO
+[COLOR green]Resolução:[/COLOR] HD 720p
+[COLOR green]Sinopse:[/COLOR] As aventuras de João Grilo (Matheus Natchergaele), um sertanejo pobre e mentiroso, e Chicó (Selton Mello), o mais covarde dos homens. Ambos lutam pelo pão de cada dia e atravessam por vários episódios enganando a todos da pequena cidade em que vivem.
+</info>
+</item>
+##############################################################
+
+<item>
 <title>[B] NOTORIOS B.I.G: A LENDA DO HIP HOP   [COLOR lime][/COLOR] [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:752627eb3a54a19cd15a2ec54f465e82cd746a6f</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m9uJTXwMeaJU1zI5BFbG6VVIkXn.jpg</thumbnail>
