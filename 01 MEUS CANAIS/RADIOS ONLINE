@@ -41,9 +41,6 @@ http://streaming13.hstbr.net:8072/live
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", 93 FM
 https://18133.live.streamtheworld.com/FM93_SC
  
- 
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Dumont FM
-http://174-36-1-94.webnow.net.br/dumont.aac
 
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Antena 1
 http://antena1.newradio.it/stream2?ext=.mp3
@@ -66,19 +63,7 @@ http://felizfm.sateg.com.br:11520/stream/1/
  
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Rádio Gaúcha
 https://722747t.ha.azioncdn.net/2747t/_definst_/gaucha_rbs.sdp/chunklist_3c6a89e5-243e-4091-b0b9-9493c9e8136a.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", CBN FM SP
-http://stream.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
 
- 
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Guaiba FM
-http://cast4.audiostream.com.br:8007/app
- 
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Clube FM Brasilia
-http://5940.live.upx.net.br:9082/;
- 
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", S30 MaxCast Web Rádio
-http://s30.maxcast.com.br:8190/live
 
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO STUDIO DO AMOR
 http://192.99.150.31:8962/stream
