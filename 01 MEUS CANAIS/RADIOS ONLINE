@@ -27,15 +27,6 @@ http://transamerica.crossradio.com.br:9114/live.mp3
 https://radio.truckers.fm/
 
  
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Rádio Disney
-https://edge-np.cdn.mdstrm.com/5a9ee30411c043ae48e40bce.mp3
- 
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", BH FM
-http://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Band FM
-http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w325491469.m3u8
- 
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Rádio Energia
 http://audio.97fm.com.br/energia
 
@@ -43,30 +34,13 @@ http://audio.97fm.com.br/energia
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", JB FM
 https://20823.live.streamtheworld.com/JBFM.mp3?pname=TdPlayerApi&pversion=2.5&banners=&sbmid=e190d544-81ad-44ce-f431-bef4877dbe80
  
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Rádio Bandeirantes
-https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/chunklist_w1799959325.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", 98 FM
 http://streaming13.hstbr.net:8072/live
  
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", FM O DIA
-https://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/playlist.m3u8
-
- 
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Tropical FM
-http://stm19.srvstm.com:20972/stream/1/
- 
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", 93 FM
 https://18133.live.streamtheworld.com/FM93_SC
  
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", 105 FM
-http://st1.midaweb.com.br:9746/stream/1/
- 
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Transcontinental
-http://ice1.crossradio.com.br:8198/live.aac
- 
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Rádio Globo
-http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Dumont FM
 http://174-36-1-94.webnow.net.br/dumont.aac
