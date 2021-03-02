@@ -12,14 +12,6 @@ http://a1rj.streams.com.br:7801/sm
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", USP FM
 http://flow.emm.usp.br:8007/radiousp-128.mp3
 
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Radio Sagres
-http://79.143.184.143:8000/stream
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", FM O DIA TV
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", FM O DIA
-http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Mix FM
 http://mixaac.crossradio.com.br:1100/live
