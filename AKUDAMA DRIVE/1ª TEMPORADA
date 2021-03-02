@@ -10,7 +10,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EaruG7
 https://proxy-008.ix7.dailymotion.com/sec(5D-upqDJxZ7oMdF5vyvZyFaltHCwZ7vX3aJz779XPu5Nar-w0gnlJx2JMh5L1wodftlC0LXpCbppgHsZtMHadCdqcrmx26Ae2bSmlpEC7pY)/video/269/286/482682962_mp4_h264_aac_hd.m3u8#cell=core&qos_ugc=1&qos_geostore=1
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0xNHFFiMJbU1eGu9d1fMKFecr7.jpg" group-title="AKUDAMA DRIVE" , [B] EPSÓDIO 04 [/B]
-https://r4---sn-5hne6nsr.googlevideo.com/videoplayback?expire=1611312726&ei=1j0KYJfeOa_k8gTjvqv4CQ&ip=5.45.65.189&id=4f77ec2a3e6ba5ad&itag=18&source=blogger&mh=sl&mm=31&mn=sn-5hne6nsr&ms=au&mv=m&mvi=4&pl=22&susc=bl&mime=video/mp4&vprv=1&dur=1427.214&lmt=1604000187070848&mt=1611283717&txp=1310224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRAIgLK4Sne8czKsT4AhfPbHFkTDtdzz2hBWeCx1tiNODaOYCIHfVpNlgSIt87eSFuUHzr2Bas_QK1Mn4_r8lO5oGxsWL&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAMzs8kM9RtjUgKnzDdjTnPf0mtmeMy7wxVf-MIvwvjCMAiBW2GQ0Ml74CYYss3fKWgaiOb3FIlhqMztpBgN6b3UIzg%3D%3D
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sPRYSHpHZyg&feature=youtu.be
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0xNHFFiMJbU1eGu9d1fMKFecr7.jpg" group-title="AKUDAMA DRIVE" , [B] EPSÓDIO 05 [/B] 
 https://proxy-001.dc3.dailymotion.com/sec(wb8UD9xdr7EUNWDnSkNP3W7r5r6Wb0VkIFoFSwUvZ1tPNgH1oI9iqklusxye9YBS6BpaxNDlFlO_JgcgGUjNxtIW_dJe0mxMvcPqaGgVnSQ)/video/851/786/482687158_mp4_h264_aac_hq.m3u8#cell=core&qos_ugc=1&qos_geostore=1
