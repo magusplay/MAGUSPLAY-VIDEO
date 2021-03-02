@@ -5,59 +5,6 @@ http://live.hunterfm.com/live
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Mundial Music Brasil
 http://162.243.197.147:80/mp3-128k
 
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Radio 80 FM
-http://192.198.204.194:9020/stream
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Radio Freedom Brasilia
-http://radiofreedom.com.br:8080/aovivo.mp3/;.m3u
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", 98 FM Curitiba
-http://107-182-231-168.webnow.net.br:80/98fm.mp3
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Conquista FM
-http://107-182-231-168.webnow.net.br/conquista.mp3
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Mundo Livre FM Maringa
-http://107-182-231-168.webnow.net.br/cultura.mp3
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Diario FM
-http://107-182-231-168.webnow.net.br/diario.mp3
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Dumont FM - 104.3
-http://107-182-231-168.webnow.net.br/dumont.mp3
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Radio Emiliano
-http://107-182-231-168.webnow.net.br/emiliano56k.mp3
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", FM Diario
-http://107-182-231-168.webnow.net.br:80/fmdiario.mp3
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Mega FM
-http://107-182-231-168.webnow.net.br/mega.mp3
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Mundo Livre FM Curitiba
-http://107-182-231-168.webnow.net.br:80/mundolivre.mp3
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Raizes FM
-http://107-182-231-168.webnow.net.br:80/raizes.mp3
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Cana da Galileia
-http://servidor28.brlogic.com:8336/live
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Gospel Campinas
-http://centova.nardele.com.br:4343/stream
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Transamerica
-http://ice11.crossradio.com.br:8206/live.mp3
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Brasil Hits
-http://s02.w3bserver.com:9934/;
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Radio Beat 98
-http://s23.hstbr.net:8072/live
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Radio Atlanta
-http://143.208.11.104:8064/stream
 
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Antena 1
 http://a1rj.streams.com.br:7801/sm
