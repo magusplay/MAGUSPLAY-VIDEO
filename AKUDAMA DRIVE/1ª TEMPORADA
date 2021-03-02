@@ -7,7 +7,7 @@ https://repackager.wixmp.com/video.wixstatic.com/video/ddf6a1_1eb69f6f6f37414a9c
 https://repackager.wixmp.com/video.wixstatic.com/video/ddf6a1_2601f21d0479451eae9044bcce06593e/1080p/mp4/file.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0xNHFFiMJbU1eGu9d1fMKFecr7.jpg" group-title="AKUDAMA DRIVE" , [B] EPSÓDIO 03 [/B] 
-https://server80.animesonline.cz/appsd2/109032.mp4/playlist.m3u8
+https://repackager.wixmp.com/video.wixstatic.com/video/ddf6a1_00f4194f87f44a51889b162e0f4c65d2/1080p/mp4/file.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0xNHFFiMJbU1eGu9d1fMKFecr7.jpg" group-title="AKUDAMA DRIVE" , [B] EPSÓDIO 04 [/B]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sPRYSHpHZyg&feature=youtu.be
