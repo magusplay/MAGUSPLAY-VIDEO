@@ -56,6 +56,19 @@
 </info>
 </item>
 ##############################################################
+<item>
+<title>[B] [COLOR white] ÁRTICO [/COLOR] [COLOR lime] (Torrent)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c4a693b7ead66e8ca716cf65104518e6565924f&dn\$nome=RESOLUÇÃO 720p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0b238be258fdeb458ebf0d92542287117737442&dn\$nome=RESOLUÇÃO 1080p</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6Xqzvo7KG8oYj9DitvzN3NTI7rS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6Xqzvo7KG8oYj9DitvzN3NTI7rS.jpg</fanart>
+<info> 
+[COLOR green]Ano:[/COLOR] 2018
+[COLOR green]Genero:[/COLOR] DRAMA
+[COLOR green]Idioma:[/COLOR] DUBLADO
+[COLOR green]Sinopse:[/COLOR]  Um homem fica perdido no Ártico e está prestes a ser socorrido. Contudo, um acidente trágico faz com que ele perca sua aguardada oportunidade de resgate. É aí que ele precisa decidir entre ficar relativamente seguro em seu acampamento ou seguir numa jornada incerta para escapar.
+</info>
+</item>
 
 
 <item>
