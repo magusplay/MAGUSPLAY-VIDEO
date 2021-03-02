@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SOLTOS EM FLORIPA " tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jonZazRkT6Lfz3SLT4gBxdCILUs.jpg" tvg-shift="0" group-title="SOLTOS EM FLORIPA ",[B] EPISÓDIO 1 E 2 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62775d647608064b2877a794d8d5440f6ab3333f
+
+#EXTINF:-1 tvg-id="" tvg-name="SOLTOS EM FLORIPA 2" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jonZazRkT6Lfz3SLT4gBxdCILUs.jpg" tvg-shift="0" group-title="SOLTOS EM FLORIPA ",[B] EPISÓDIO 3 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d227d06445574a694bf63c152aa8c1e7aad7b48
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SOLTOS EM FLORIPA 2" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jonZazRkT6Lfz3SLT4gBxdCILUs.jpg" tvg-shift="0" group-title="SOLTOS EM FLORIPA ",[B] EPISÓDIO 4 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25d9f716cbcea869744cfff0a7040af04893c45c
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SOLTOS EM FLORIPA 2" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jonZazRkT6Lfz3SLT4gBxdCILUs.jpg" tvg-shift="0" group-title="SOLTOS EM FLORIPA ",[B] EPISÓDIO 5 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1cd43a6950370111ccbafd84a4338831045169c3
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SOLTOS EM FLORIPA 2" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jonZazRkT6Lfz3SLT4gBxdCILUs.jpg" tvg-shift="0" group-title="SOLTOS EM FLORIPA ",[B] EPISÓDIO 6 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b5e2efcd91281a22f008dc2354766d58295b6fa
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SOLTOS EM FLORIPA 2" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jonZazRkT6Lfz3SLT4gBxdCILUs.jpg" tvg-shift="0" group-title="SOLTOS EM FLORIPA ",[B] EPISÓDIO 7 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b709bbd3249fa3e5c7143d607838d26a4cf1a16
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SOLTOS EM FLORIPA 2" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jonZazRkT6Lfz3SLT4gBxdCILUs.jpg" tvg-shift="0" group-title="SOLTOS EM FLORIPA ",[B] EPISÓDIO 8 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cabcabccd896cebced7c37015dae85f8b46bb890
