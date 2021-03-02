@@ -13,20 +13,12 @@ http://a1rj.streams.com.br:7801/sm
 http://flow.emm.usp.br:8007/radiousp-128.mp3
 
 
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Mix FM
-http://mixaac.crossradio.com.br:1100/live
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Coca Cola FM
-http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
-
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Vibe FM
 http://servidor36.brlogic.com:8180/live
 
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Fanatica FM
 http://noasrv.caster.fm:10156/live
 
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Radio Maringa
-http://ice1.fabricahost.com.br:8010/live.128
 
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Transamerica
 http://transamerica.crossradio.com.br:9114/live.mp3
@@ -34,20 +26,6 @@ http://transamerica.crossradio.com.br:9114/live.mp3
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Truckers FM
 https://radio.truckers.fm/
 
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Vagalume Vibe
-https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Vagalume Funk
-https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Vagalume Sertanejo Hits
-https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Vagalume Pagode
-https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Rádio Mix
-http://tuneinmix.crossradio.com.br:8008/stream/1/
  
 #EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Rádio Disney
 https://edge-np.cdn.mdstrm.com/5a9ee30411c043ae48e40bce.mp3
