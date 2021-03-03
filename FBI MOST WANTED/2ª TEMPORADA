@@ -67,6 +67,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5426fcfcc8c7d8f8f86
 #EXTINF:-1 tvg-id="" tvg-name="FBI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRoyQUWQIba6CVu2rhTGAHKgZRZ.jpg" tvg-shift="0" group-title="FBI",[B] EPISÓDIO 18 [/B]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c514e949c195028ffc258b91313b7a852a0b9f9d
 
-#EXTINF:-1 tvg-id="" tvg-name="FBI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRoyQUWQIba6CVu2rhTGAHKgZRZ.jpg" tvg-shift="0" group-title="FBI",[B] EPISÓDIO 19 [/B]
+#EXTINF:-1 tvg-id="" tvg-name="FBI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRoyQUWQIba6CVu2rhTGAHKgZRZ.jpg" tvg-shift="0" group-title="FBI",[B] EPISÓDIO 18 [/B]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c514e949c195028ffc258b91313b7a852a0b9f9d
 
+#EXTINF:-1 tvg-id="" tvg-name="FBI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRoyQUWQIba6CVu2rhTGAHKgZRZ.jpg" tvg-shift="0" group-title="FBI",[B] EPISÓDIO 19 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c514e949c195028ffc258b91313b7a852a0b9f9d
