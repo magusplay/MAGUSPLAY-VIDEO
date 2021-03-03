@@ -7,7 +7,7 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e52cf81517e1a93f5bd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="FBI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRoyQUWQIba6CVu2rhTGAHKgZRZ.jpg" tvg-shift="0" group-title="FBI",[B] EPISÓDIO 3 [/B]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:885ea32d58ba4814983c99c14b708ed2a578ac91
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e257dfcdee6522fd6efbee1b72ae63f659f7c91
 
 
 #EXTINF:-1 tvg-id="" tvg-name="FBI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRoyQUWQIba6CVu2rhTGAHKgZRZ.jpg" tvg-shift="0" group-title="FBI",[B] EPISÓDIO 4 [/B]
