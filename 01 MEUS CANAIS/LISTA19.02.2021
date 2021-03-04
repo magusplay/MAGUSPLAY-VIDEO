@@ -72,9 +72,6 @@ https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w564310084.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="https://imgur.com/TuOnA8q.png" group-title="Web TV",ISTV
 https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1506444664.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Kronos Movie" tvg-logo="https://imgur.com/IhN2sZV.png" tvg-shift="0" group-title="Web TV",Kronos Movie Web TV
-https://livefocamundo.com:8081/8588/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="LatinaSat Web TV" tvg-logo="https://imgur.com/GasHQCF.png" group-title="Web TV",LatinaSat Web TV
 https://livefocamundo.com:8081/8470/index.m3u8
 
