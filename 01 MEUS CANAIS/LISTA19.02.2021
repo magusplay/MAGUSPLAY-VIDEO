@@ -106,14 +106,10 @@ https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-name="*********** MUSICAL***********" group-title="MAGUSPLAY TV" tvg-logo="https://i.imgur.com/4IRPTyM.png",************** MUSICAL ***********
 https://
 
-#EXTINF:-1 tvg-logo="https://imgur.com/iFKAgBp.png" group-title="Música",1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/K9Bgg9r.png" group-title="Música",Retrô Music
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NAPG3nJ.png" group-title="Música",KroneHIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/SccwMTM.png" group-title="Música",RadioU
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
@@ -126,10 +122,6 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/et4L5VE.png" group-title="Música",Ocko Star
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Música",Greatest Hits TV
-https://stmv1.srvif.com/ghtv/ghtv/playlist.m3u8
-
 
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml" url-tvg="https://i.mjh.nz/PlutoTV/br.xml" refresh="3600"
