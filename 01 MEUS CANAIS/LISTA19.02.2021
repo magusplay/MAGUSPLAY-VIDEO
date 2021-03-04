@@ -75,12 +75,6 @@ https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w1506444664.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LatinaSat Web TV" tvg-logo="https://imgur.com/GasHQCF.png" group-title="Web TV",LatinaSat Web TV
 https://livefocamundo.com:8081/8470/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name"PPTV Channel" tvg-logo="https://imgur.com/Hkq6bYu.png" group-title="Web TV",PPTV Channel
-https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Rede HTV" tvg-logo="https://imgur.com/kiHXaVb.png" tvg-shift="0" group-title="Web TV",Rede HTV
-https://stmv3.samcast.com.br/hugo3090/hugo3090/chunklist_w1615540760.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon" tvg-logo="https://imgur.com/mgHLYAn.png" group-title="Web TV",Retrô Cartoon
 https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 
@@ -99,8 +93,6 @@ https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Séries Star Trek" tvg-logo="https://imgur.com/BPqwYUG.png" group-title="Web TV",TV Séries Star Trek
 https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV VM" tvg-logo="https://imgur.com/w8c6u2S.png" tvg-shift="0" group-title="Web TV",TV VM Web TV
-https://livefocamundo.com:8081/8606/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vintage TV" tvg-logo="https://imgur.com/a8e5Fti.png" group-title="Web TV",Vintage TV
 https://stmv1.srvstm.com:443/rogerio4248/rogerio4248/chunklist_w2046020600.m3u8
