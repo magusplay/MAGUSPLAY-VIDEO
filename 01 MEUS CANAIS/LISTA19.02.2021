@@ -1,12 +1,7 @@
-#EXTM3U
- 
-#PLAYLISTV: pltv-logo="https://s15.postimg.cc/nmizpp2qj/Slide1.jpg" pltv-name="magusplay" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://s15.postimg.cc/nmizpp2qj/Slide1.jpg" pltv-author="Iav" pltv-site="" pltv-email="magusplay" pltv-phone="magusplay.
 
-
-
-
-
-############################### ABERTOS #####################################
+#EXTM3U x-tvg-url="https://i.imgur.com/4IRPTyM.png" url-tvg="https://i.imgur.com/4IRPTyM.png" refresh="3600"
+#EXTINF:-1 tvg-name="*********** CANAIS ABERTO***********" group-title="MAGUSPLAY TV" tvg-logo="https://i.imgur.com/4IRPTyM.png",************* CANAIS ABERTO ***********
+https://
 
 #EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV Aberta",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
@@ -48,7 +43,9 @@ http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 
 
-############################### WEB TV ######################################
+#EXTM3U x-tvg-url="https://i.imgur.com/4IRPTyM.png" url-tvg="https://i.imgur.com/4IRPTyM.png" refresh="3600"
+#EXTINF:-1 tvg-name="*********** WEB TV***********" group-title="MAGUSPLAY TV" tvg-logo="https://i.imgur.com/4IRPTyM.png",************** WEB TV ***********
+https://
 
 #EXTINF:-1 tvg-id="" tvg-name="All Sports TV" tvg-logo="https://imgur.com/EAwMcTz.png" tvg-shift="0" group-title="Web TV",All Sports TV
 https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w698058298.m3u8
@@ -120,7 +117,9 @@ http://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w745028546.m3u8
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 
-############################### MÚSICAL #####################################
+#EXTM3U x-tvg-url="https://i.imgur.com/4IRPTyM.png" url-tvg="https://i.imgur.com/4IRPTyM.png" refresh="3600"
+#EXTINF:-1 tvg-name="*********** MUSICAL***********" group-title="MAGUSPLAY TV" tvg-logo="https://i.imgur.com/4IRPTyM.png",************** MUSICAL ***********
+https://
 
 #EXTINF:-1 tvg-logo="https://imgur.com/iFKAgBp.png" group-title="Música",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
@@ -149,7 +148,7 @@ https://stmv1.srvif.com/ghtv/ghtv/playlist.m3u8
 
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml" url-tvg="https://i.mjh.nz/PlutoTV/br.xml" refresh="3600"
-#EXTINF:-1 tvg-name="*********** PLUTO BR ***********" group-title="BRAZIL PLUTO" tvg-logo="https://i.imgur.com/4IRPTyM.png",***************** PLUTO BR ***********
+#EXTINF:-1 tvg-name="*********** PLUTO BR ***********" group-title="BRAZIL PLUTO" tvg-logo="https://i.imgur.com/4IRPTyM.png",************** PLUTO BR ***********
 https://
 #EXTINF:-1 tvg-name="A vida moderna de Rocko" tvg-id="5f6df6293a12e10007017396" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png",A vida moderna de Rocko
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -211,6 +210,3 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="Turma da Mônica" tvg-id="5f997e44949bc70007a6941e" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png",Turma da Mônica
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-
-
