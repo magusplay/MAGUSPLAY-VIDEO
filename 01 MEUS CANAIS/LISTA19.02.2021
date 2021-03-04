@@ -12,8 +12,6 @@ https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="TV Aberta",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Loading" tvg-logo="https://imgur.com/DAyMXAx.png" tvg-shift="0" group-title="TV Aberta",Loading
-https://akamai2-br.cdn.booyah.live/hls/1000005/34850987_1080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="https://imgur.com/mWX1ThW.png" tvg-shift="0" group-title="TV Aberta",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
