@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SERVANT" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8yfkkAeoI77opqAvB9fyf4knftS.jpg" tvg-shift="0" group-title="SERVENT",[B] EPISÓDIO 1 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d81dabc0823e4d54171fefb4d59b63795df8284c
+
+#EXTINF:-1 tvg-id="" tvg-name="SERVANT" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8yfkkAeoI77opqAvB9fyf4knftS.jpg" tvg-shift="0" group-title="SERVENT",[B] EPISÓDIO 2 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5372b785001381d31ea583bd053143197211306
+
+#EXTINF:-1 tvg-id="" tvg-name="SERVANT" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8yfkkAeoI77opqAvB9fyf4knftS.jpg" tvg-shift="0" group-title="SERVENT",[B] EPISÓDIO 3 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0fadefa02a07e771a104962f69e78178f8d28faa
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SERVANT" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8yfkkAeoI77opqAvB9fyf4knftS.jpg" tvg-shift="0" group-title="SERVENT",[B] EPISÓDIO 4 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c000e01bf271f3f1f98a981d77ac0ca8c276e347
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SERVANT" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8yfkkAeoI77opqAvB9fyf4knftS.jpg" tvg-shift="0" group-title="SERVENT",[B] EPISÓDIO 5 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6187bdccdb85e2b24d60e6be9eea2c93a676c50
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SERVANT" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8yfkkAeoI77opqAvB9fyf4knftS.jpg" tvg-shift="0" group-title="SERVENT",[B] EPISÓDIO 6 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dae2262bdbaae5b52b646f2bcab541b673ca84c
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SERVANT" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8yfkkAeoI77opqAvB9fyf4knftS.jpg" tvg-shift="0" group-title="SERVENT",[B] EPISÓDIO 7 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9468747821f6339853835aa6ca3aaaa00dd9636
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SERVANT" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8yfkkAeoI77opqAvB9fyf4knftS.jpg" tvg-shift="0" group-title="SERVENT",[B] EPISÓDIO 8 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee73851eca0a3a8be1304ef0b8344c2a281de029
