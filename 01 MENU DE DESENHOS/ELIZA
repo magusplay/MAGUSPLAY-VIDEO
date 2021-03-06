@@ -54,6 +54,21 @@
 ##############################################################
 
 <item>
+<title>[B] [COLOR white] MOANA [/COLOR] [COLOR lime] (Torrent)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3B888A8EFAC38897BA00CC11D147578123E89A98&dn\$nome=RESOLUÇÃO 720p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:027B088D62C346199AD9C1ED6021D2D15C26F02A&dn\$nome=RESOLUÇÃO 1080p</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4jNbH7A9HGL4OCNQvzj98ksoa2f.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4jNbH7A9HGL4OCNQvzj98ksoa2f.jpg</fanart>
+<info> 
+[COLOR green]Ano:[/COLOR] 2017
+[COLOR green]Genero:[/COLOR] ANIMAÇÃO
+[COLOR green]Idioma:[/COLOR] DUBLADO
+[COLOR green]Sinopse:[/COLOR] Moana Waialiki é uma corajosa jovem, filha do chefe de uma tribo na Oceania, vinda de uma longa linhagem de navegadores. Querendo descobrir mais sobre seu passado e ajudar a família, ela resolve partir em busca de seus ancestrais, habitantes de uma ilha mítica que ninguém sabe onde é. 
+</info>
+</item>
+##############################################################
+
+<item>
 <title>[B] CAVERNA DO DRAGÃO [COLOR lime][/COLOR] [/B]</title>
 <link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5fLMmDxrEUQ&feature=youtu.be</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/FAXtVRWrjLeMWkFq8t6vuvjV39.jpg</thumbnail>
