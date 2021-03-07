@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kpf1SOApAMXtnKHjdCJSbSyiCVe.jpg" tvg-shift="0" group-title="O MITO DE SÍSIFO",[B] EPISÓDIO 1 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef1092ddc8364968eda68f4d6e801a1a4fa26522
+
+#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kpf1SOApAMXtnKHjdCJSbSyiCVe.jpg" tvg-shift="0" group-title="O MITO DE SÍSIFO",[B] EPISÓDIO 2 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf76f76f2d0316ed5de5b144a614a7d2e6df61f0
+
+#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kpf1SOApAMXtnKHjdCJSbSyiCVe.jpg" tvg-shift="0" group-title="O MITO DE SÍSIFO",[B] EPISÓDIO 3 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18298d72a0143b881499f97f5dd1f6e9ee401519
+
+#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kpf1SOApAMXtnKHjdCJSbSyiCVe.jpg" tvg-shift="0" group-title="O MITO DE SÍSIFO",[B] EPISÓDIO 4 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9629a49dff9f4a90de7f58cf809441a11885f459
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kpf1SOApAMXtnKHjdCJSbSyiCVe.jpg" tvg-shift="0" group-title="O MITO DE SÍSIFO",[B] EPISÓDIO 5 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1423e08319924d79fda71ecede229b1dd0f7b684
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kpf1SOApAMXtnKHjdCJSbSyiCVe.jpg" tvg-shift="0" group-title="O MITO DE SÍSIFO",[B] EPISÓDIO 6 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa1d56144841854706e5690021a8f5ed2d35b85a
