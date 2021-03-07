@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eJomyEtQE9WF2GZWXcfzj3Omb5Q.jpg" tvg-shift="0" group-title="OLÁ SOU EU!",[B] EPISÓDIO 1 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a09826c13677d4690011c35c16d311d61c5d699b
+
+#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eJomyEtQE9WF2GZWXcfzj3Omb5Q.jpg" tvg-shift="0" group-title="OLÁ SOU EU!",[B] EPISÓDIO 2 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7606501f27eeefcd33238e63c86de2d21ebb189b
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eJomyEtQE9WF2GZWXcfzj3Omb5Q.jpg" tvg-shift="0" group-title="OLÁ SOU EU!",[B] EPISÓDIO 3 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b70fca2f206d6920fa5eb90f7ec13e232fdbbc5
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eJomyEtQE9WF2GZWXcfzj3Omb5Q.jpg" tvg-shift="0" group-title="OLÁ SOU EU!",[B] EPISÓDIO 4 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4875bd7b84e4a0fe20a7d46715ac51b237a3f379
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eJomyEtQE9WF2GZWXcfzj3Omb5Q.jpg" tvg-shift="0" group-title="OLÁ SOU EU!",[B] EPISÓDIO 5 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc6b53f2224bedaa0a29a6c23fd2701b0dade398
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eJomyEtQE9WF2GZWXcfzj3Omb5Q.jpg" tvg-shift="0" group-title="OLÁ SOU EU!",[B] EPISÓDIO 6 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5513c6423d0789997b5d3068a83ab2e88ed8784
