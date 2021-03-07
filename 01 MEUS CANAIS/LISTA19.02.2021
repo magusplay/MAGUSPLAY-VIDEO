@@ -141,6 +141,12 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecineaction_be057d4c_8
 #EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="http://dns.jserverstv.ml:80/images/51286eb8f0e3e46f23f4808b95ba980e.png" tvg-shift="0" group-title="MEGAPIX",[B] MAGAPIX [/B]
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/megapix_a6f16ab4_d3d2bf7775d8d410854aa050f7eac2d70c5bc783/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTcwLjI0NS4xNTAuMjEwIjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUxNTI1NDY7fQ%3D%3D
 
+#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-shift="0" group-title="HBO",[B] HBO [/B]
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/hbo_63266754_767c4e5a54ff3f11b8b6d448750bf2bf868342fe/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTcwLjI0NS4xNTAuMjEwIjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUxNTQ0MzE7fQ%3D%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="http://dns.jserverstv.ml:80/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" tvg-shift="0" group-title="AMC",[B] AMC [/B]
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/amcbrasil_b7f5113f_a992b6dc3f1b275d54338cab4114962199525243/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTcwLjI0NS4xNTAuMjEwIjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUxNTQ2MDY7fQ%3D%3D
+
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml" url-tvg="https://i.mjh.nz/PlutoTV/br.xml" refresh="3600"
 #EXTINF:-1 tvg-name="*********** PLUTO BR ***********" group-title="BRAZIL PLUTO" tvg-logo="https://i.imgur.com/4IRPTyM.png",************** PLUTO BR ***********
