@@ -128,8 +128,8 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest
 #EXTINF:-1 tvg-name="*********** CANAIS TESTE***********" group-title="MAGUSPLAY TV" tvg-logo="https://i.imgur.com/4IRPTyM.png",************** CANAIS TESTE ***********
 https://
 
-#EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="http://dns.jserverstv.ml:80/images/bea99f2c35beab30bdbc493660e3fe11.png" tvg-shift="0" group-title="SPORT TV",[B] SPORT TV [/B]
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv_91dfde1d_3bd38907381880be51dad3b7ac16ad18541847de/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTcwLjI0NS4xNTAuMjEwIjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUxNTM3NDk7fQ%3D%3D
+#EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-name="TV Paraná Turismo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3lxkJxb.png" tvg-url="" group-title="Travel",TV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NOME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" tvg-shift="0" group-title="TELE CINE",[B] TELE CINE ACTION [/B]
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecineaction_be057d4c_8e1c238541e1c9870bc878438866a3e3cbda290d/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTcwLjI0NS4xNTAuMjEwIjtpOjE7czoxMTU6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTkwIFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MTUxNTM5MTY7fQ%3D%3D
