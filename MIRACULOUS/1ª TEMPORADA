@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 1 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9Hnx2YLeZV4&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 2 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YUU2VYi5vQM&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=2
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 3 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=k6jLM_j4ffk&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=3
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 4 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LXkAjFUAVZ0&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=4
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 5 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rTHqvxLlyKA&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=5
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 6 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zPnvk7D_160&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=8
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 7 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zPnvk7D_160&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=8
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 8 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=oJ86RVu5ppI&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=9
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 9 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9rpW4d8Cikk&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=10
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 10 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gyUquVLWUOU&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=13
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 11 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-b0D8gae73k&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=14
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 12 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dWoM5NnTorg&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=15
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 13 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=INRVxrCAc1U&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=16
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 14 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hOBPE4R1suM&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=17
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 15 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AgsV3Puv4zI&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=18
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 16 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ow-_KRgw_EQ&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=19
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 17 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=l5a81brDqOo&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=20
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 18 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zPlgA_9Ti_g&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=23
+#EXTINF:-1 tvg-id="" tvg-name="MIRACULOUS" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aNioAFrdtbKNrdcE1jAXuINxdwF.jpg" tvg-shift="0" group-title="MIRACULOUS",[B] EPISÓDIO 19 [/B]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2CKS-MM-5k0&list=PLfvQPytffkevUE3kigo8PR6SdYDKTNAMR&index=24
