@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EXPRESSO DO AMANHÂ" tvg-name="EXPRESSO DO AMANHÂ" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7AoS6Oez4C3z8wRnQVHYLwhY3FX.jpg" tvg-shift="0" group-title="EXPRESSO DO AMANHÂ",[B] EPISÓDIO 1[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd7714571e5ee30517b8bc76bb9715fd633ed230
+
+#EXTINF:-1 tvg-id="EXPRESSO DO AMANHÂ" tvg-name="EXPRESSO DO AMANHÂ" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7AoS6Oez4C3z8wRnQVHYLwhY3FX.jpg" tvg-shift="0" group-title="EXPRESSO DO AMANHÂ",[B] EPISÓDIO 2[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8632d726e6c57375f463cd267ba25f750359154
+
+
+#EXTINF:-1 tvg-id="EXPRESSO DO AMANHÂ" tvg-name="EXPRESSO DO AMANHÂ" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7AoS6Oez4C3z8wRnQVHYLwhY3FX.jpg" tvg-shift="0" group-title="EXPRESSO DO AMANHÂ",[B] EPISÓDIO 3[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:325d88a695d26e3045d9d081965511e505e18db0
+
+
+#EXTINF:-1 tvg-id="EXPRESSO DO AMANHÂ" tvg-name="EXPRESSO DO AMANHÂ" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7AoS6Oez4C3z8wRnQVHYLwhY3FX.jpg" tvg-shift="0" group-title="EXPRESSO DO AMANHÂ",[B] EPISÓDIO 4[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e50bb9beae3f0b1adb2b974c96321255c9c17a5
+
+
+#EXTINF:-1 tvg-id="EXPRESSO DO AMANHÂ" tvg-name="EXPRESSO DO AMANHÂ" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7AoS6Oez4C3z8wRnQVHYLwhY3FX.jpg" tvg-shift="0" group-title="EXPRESSO DO AMANHÂ",[B] EPISÓDIO 5[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d93db4e276296df08d008da0bf9eb7f058741df9
+
+
+#EXTINF:-1 tvg-id="EXPRESSO DO AMANHÂ" tvg-name="EXPRESSO DO AMANHÂ" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7AoS6Oez4C3z8wRnQVHYLwhY3FX.jpg" tvg-shift="0" group-title="EXPRESSO DO AMANHÂ",[B] EPISÓDIO 6[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d42c522835671147af8319174bb8dd2fd42eaa6b
+
