@@ -34,7 +34,15 @@
 <info> MAGUSPLAY </info>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
+<item>
+        <title>[B][COLOR white] 3ª TEMPORADA [/COLOR][COLOR lime] |WEB [/COLOR] DUBLADO[/B]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/GAME%20OF%20THRONES/3%C2%AA%20TEMPORADA%20WEBLINK</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQ9cyw1gfpK1M3a69cgXFHvWkih.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQ9cyw1gfpK1M3a69cgXFHvWkih.jpg</fanart>
+<info> MAGUSPLAY </info>
+        </item>
+##############################################################
 <item>
 <title>[B] 3° TEMPORADA [COLOR yellow] [/COLOR] [COLOR lime](HD)[/COLOR] DUBLADO [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e6c8e66a91bac41eb0085eb6921d11a543621eb</link>
