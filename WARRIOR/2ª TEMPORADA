@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="WARRIOR" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zUFlIFQ2WAY3x7zQ5yiFzBl0sI.jpg" tvg-shift="0" group-title="WARRIOR",[B] EPISÓDIO 1 [/B]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f58f2db0f5e5489fd431a9eea5459f42b5e1e45
 #EXTINF:-1 tvg-id="" tvg-name="WARRIOR" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zUFlIFQ2WAY3x7zQ5yiFzBl0sI.jpg" tvg-shift="0" group-title="WARRIOR",[B] EPISÓDIO 2 [/B]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9f266346b542bdbefd23189050d8482d2c1995e
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62eed1d30658882e76f276c3647a9ddc80aa767d
 #EXTINF:-1 tvg-id="" tvg-name="WARRIOR" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zUFlIFQ2WAY3x7zQ5yiFzBl0sI.jpg" tvg-shift="0" group-title="WARRIOR",[B] EPISÓDIO 3 [/B]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f59514fe966eb192dfcc3b1c97c9dd97d57b4b7
 #EXTINF:-1 tvg-id="" tvg-name="WARRIOR" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zUFlIFQ2WAY3x7zQ5yiFzBl0sI.jpg" tvg-shift="0" group-title="WARRIOR",[B] EPISÓDIO 4 [/B]
@@ -14,7 +14,7 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31484a4222f7ae4ab36
 #EXTINF:-1 tvg-id="" tvg-name="WARRIOR" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zUFlIFQ2WAY3x7zQ5yiFzBl0sI.jpg" tvg-shift="0" group-title="WARRIOR",[B] EPISÓDIO 7 [/B]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6677b4c531c3ea29e5a05c19b72c3cba8726bdae
 #EXTINF:-1 tvg-id="" tvg-name="WARRIOR" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zUFlIFQ2WAY3x7zQ5yiFzBl0sI.jpg" tvg-shift="0" group-title="WARRIOR",[B] EPISÓDIO 8 [/B]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6677b4c531c3ea29e5a05c19b72c3cba8726bdae
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59a037a52287d6687dbbba9cf1b5c018831fafbc
 #EXTINF:-1 tvg-id="" tvg-name="WARRIOR" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zUFlIFQ2WAY3x7zQ5yiFzBl0sI.jpg" tvg-shift="0" group-title="WARRIOR",[B] EPISÓDIO 9 [/B]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4bc660efa9788696579b0cb9c5706fc1b04ba164
 #EXTINF:-1 tvg-id="" tvg-name="WARRIOR" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zUFlIFQ2WAY3x7zQ5yiFzBl0sI.jpg" tvg-shift="0" group-title="WARRIOR",[B] EPISÓDIO 10 [/B]
