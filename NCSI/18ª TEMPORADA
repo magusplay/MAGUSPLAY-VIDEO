@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="NCSI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/18ZUYhplwv4akoE2ehqoVDkX2bS.jpg" tvg-shift="0" group-title="NCSI",[B] EPISÓDIO 1[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:029dffbe7c993264484cacae1142978f62b5eea6
+#EXTINF:-1 tvg-id="" tvg-name="NCSI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/18ZUYhplwv4akoE2ehqoVDkX2bS.jpg" tvg-shift="0" group-title="NCSI",[B] EPISÓDIO 2[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:925cb96eb10f2d5b1edc46525012591a523a4ced
+#EXTINF:-1 tvg-id="" tvg-name="NCSI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/18ZUYhplwv4akoE2ehqoVDkX2bS.jpg" tvg-shift="0" group-title="NCSI",[B] EPISÓDIO 3[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53b77870c298735ae55d0ed2cd20b77b11fa4eea
+#EXTINF:-1 tvg-id="" tvg-name="NCSI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/18ZUYhplwv4akoE2ehqoVDkX2bS.jpg" tvg-shift="0" group-title="NCSI",[B] EPISÓDIO 4[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22e197eaba1f8dc160fb5b615efe8eb7debac644
+#EXTINF:-1 tvg-id="" tvg-name="NCSI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/18ZUYhplwv4akoE2ehqoVDkX2bS.jpg" tvg-shift="0" group-title="NCSI",[B] EPISÓDIO 5[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a1e58b18c2392b95f3369348132aead2fc21531
+#EXTINF:-1 tvg-id="" tvg-name="NCSI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/18ZUYhplwv4akoE2ehqoVDkX2bS.jpg" tvg-shift="0" group-title="NCSI",[B] EPISÓDIO 6[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:812523e3451757e54dc7ef45ac14f46b6eda8613
+#EXTINF:-1 tvg-id="" tvg-name="NCSI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/18ZUYhplwv4akoE2ehqoVDkX2bS.jpg" tvg-shift="0" group-title="NCSI",[B] EPISÓDIO 7[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87cb081409c406272a704a391d8cb9a0a9c7326c
+#EXTINF:-1 tvg-id="" tvg-name="NCSI" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/18ZUYhplwv4akoE2ehqoVDkX2bS.jpg" tvg-shift="0" group-title="NCSI",[B] EPISÓDIO 8[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67ee352e57f20f9493fafee6f7b3603c6146443b
