@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MAGUSPLAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg" tvg-shift="0" group-title="LEGACIES",[B] EPISÓDIO 1 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c9e001319ea68ccfd967c61a115e67d7d2effb2
+#EXTINF:-1 tvg-id="" tvg-name="MAGUSPLAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg" tvg-shift="0" group-title="LEGACIES",[B] EPISÓDIO 2 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02e9d2c67092bfc0945f89041fb217daff9776b4
+#EXTINF:-1 tvg-id="" tvg-name="MAGUSPLAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg" tvg-shift="0" group-title="LEGACIES",[B] EPISÓDIO 3 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1356acd43d655437d49edd31416233549af5452
+#EXTINF:-1 tvg-id="" tvg-name="MAGUSPLAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg" tvg-shift="0" group-title="LEGACIES",[B] EPISÓDIO 4 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cec227f8ec55ecca21ba554340f1f51a439aa48d
+#EXTINF:-1 tvg-id="" tvg-name="MAGUSPLAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg" tvg-shift="0" group-title="LEGACIES",[B] EPISÓDIO 5 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86534075f72290bd025c497e421768721eacc0cf
