@@ -2,11 +2,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="A PESTE" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lMv9BfXtClkvjWk2yFL2JyuKXLt.jpg" tvg-shift="0" group-title="A PESTE",[B] EPISÓDIO 1 [/B]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50bcbf9a1777c2d3d6a1ccf53fc2fecd5f72d36d
 
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A PESTE" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lMv9BfXtClkvjWk2yFL2JyuKXLt.jpg" tvg-shift="0" group-title="A PESTE",[B] EPISÓDIO 2 [/B]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c808d698c2637960d3c2f973d7a4a0a1fcefb575
 
-
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A PESTE" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lMv9BfXtClkvjWk2yFL2JyuKXLt.jpg" tvg-shift="0" group-title="A PESTE",[B] EPISÓDIO 3 [/B]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97aaa8ccd17541b3b66d5973a843a049c94d4b4e
