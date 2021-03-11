@@ -1,3 +1,7 @@
+#EXTM3U x-tvg-url="IMAGEM" url-tvg="IMAGEM" refresh="3600"
+#EXTINF:-1 tvg-name="TEMPORADA" group-title="MAGUSPLAY SERIE" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg",[COLOR lime]1ª TEMPORADA[/COLOR]
+https://
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/BbNvKCuEF4SRzFXR16aK6ISFtR.jpg"group-title="MAGUSPLAY",[B] EPISÓDIO 1[/B]
 https://11723-1.b.cdn12.com/fson/the-mandalorian/1dub/1.mp4
