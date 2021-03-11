@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MAGUSPLAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bVQNsTx9GgY0RI37k3W23lq21dQ.jpg" tvg-shift="0" group-title="Kizumonogatari I: Tekketsu-hen",[B] EPISÓDIO 1 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59e929e0113c329f3787df2947f02c1a2d475821
+#EXTINF:-1 tvg-id="" tvg-name="MAGUSPLAY" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bVQNsTx9GgY0RI37k3W23lq21dQ.jpg" tvg-shift="0" group-title="Kizumonogatari I: Tekketsu-hen",[B] EPISÓDIO 2 [/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1dd2ffc6278be64bbdec460025841200aeb66c23
