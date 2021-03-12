@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 1[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4D6194F4AABB6884AE361568DA20DF91031566FE
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 2[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0B72D726CFC979525025ED2D3C2E79DE59FF6E2
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 3[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A4FF816602FAF1B254950A755145719B6A09FE37
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 4[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E13E46C36B13F3FD77F7A8EE10E9DAE8EA387D91
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 5[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d44c79c2fa18ca5acafe69527c408ea25dcfe259
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 6[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a46587b3f4ed6b31167387047b690b286a4633d9
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 7[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E5431AC0563EB486B0500836DBA24BC399D23A6B
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 8[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81B7877A1E1927CD2B71BBA419B46D0BA24FF3B2
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 9[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47782d9017f1ad4eb77e6eb75a6cc34b707890b2
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 10[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77c5e72a608830ddfbdc7d4636719e99b9a62861
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 11[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:522f339fee0accad474ba47c6f7e8dc960992696
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 12[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81319C519EC10FA984463A06819013E963A4C969
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 13[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac7d4a8d8fe0be7e5fa1e86e3f9dc2d2b5d1813c
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 14[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba07fc47859a3057409a1face2dcabc7d4474619
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 15[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7be697a8c0989a2ad0450d415f901f70d257405
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 16[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f86d85412b0ea3715cdc78079ababd7745bf4acc
