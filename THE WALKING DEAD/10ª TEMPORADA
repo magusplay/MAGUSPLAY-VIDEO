@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 1[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5620b30da6cf2801908a50d21f41c853bb36c9f1
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 2[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3368c0569aaf1ab2f68575f34c3b043da1b0301
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 3[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5b6b934e0f600f74534f502bd01aa25e197da95
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 4[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5863729e29822abc44225211e35b11d2b5fd136
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 5[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c291a00c4ffe2e19cdbe2ec46c9ced619fade6f
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 6[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aaf00001902f40db98bc73f71404dc75b3aa7e12
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 7[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e64f056918c13e60e6ed6ff9330239bdd33d693
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 8[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49b5d377b767069c8bdc1fa6bf802821df81979c
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 9[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b96e01b6db5538545e6c1096da4a3786f637435d
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 10[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aff59a47302803bfe84b06e7085a7f0a40a09b4f
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 11[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa6efa9717600d40ba956eab2975d3e14faa2602
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 12[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f81a441ec555c5cdfcd087681991c886a4bced58
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 13[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ba704bdbf87c6d87a04a445284d55d6e0bf9f8a
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 14[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0c54715139e8a9a83b5f82d8d35094df220a1a0
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 15[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0c54715139e8a9a83b5f82d8d35094df220a1a0
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 16[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b12ee6549c0e2b87cedfc5927a05b853ea87dc37
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 17[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:270797fcb44a1ff892af7d11f2b0686473b7169c
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 18[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2c4668debd5894fe725c9cc58a34bdf4bcdcc15
+
