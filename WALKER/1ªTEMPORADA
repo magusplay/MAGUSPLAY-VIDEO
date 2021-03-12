@@ -40,7 +40,15 @@
 
 
 <item>
-<title>[B] T1:E6 - "Episódio 6" [COLOR lime]  AGUARDANDO LANÇAMENTO[/COLOR]  [/B]</title>
+<title>[B] T1:E6 - "Episódio 6" [COLOR lime] [/COLOR]  [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6b8aa6b0b1fd8071a4871e926466024653ddf2a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4VHQbbY1UcAjHN7UTGu0MGyVl2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4VHQbbY1UcAjHN7UTGu0MGyVl2.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[B] T1:E7 - "Episódio 7" [COLOR lime]  AGUARDANDO LANÇAMENTO[/COLOR]  [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4VHQbbY1UcAjHN7UTGu0MGyVl2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4VHQbbY1UcAjHN7UTGu0MGyVl2.jpg</fanart>
