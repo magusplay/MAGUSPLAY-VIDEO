@@ -11,9 +11,22 @@
 </info>
         </item>
 ####################################################################################################################################################################################
-
 <item>
-        <title>[B][COLOR white] POLOS OPOSTOS [/COLOR][/B]</title>
+<title>[B] [COLOR white] DE VOLTA A CASA DA COLINA [/COLOR][COLOR lime]|T[/COLOR] [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5e8e76f7d746a45bd1ef517870f8534c9b7008b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l572nc1w54hYUxkV2oaqb6Duhbq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l572nc1w54hYUxkV2oaqb6Duhbq.jpg</fanart>
+<info> 
+[COLOR yellow]Ano:[/COLOR] 20O7
+[COLOR yellow]Genero:[/COLOR] TERROR
+[COLOR yellow]Idioma:[/COLOR] DUBLADO
+[COLOR yellow]Resolução:[/COLOR] HD 720p/1080p
+[COLOR yellow]Sinopse:[/COLOR] A editora de moda Ariel se recusa a acreditar nas histórias assustadoras de sua irmã sobre um manicômio. Mas, quando ela é encontrada morta, Ariel e seu namorado descobrem um diário com informações sobre uma estátua amaldiçoada que vale milhões escondida no manicômio.
+</info>
+</item>
+##############################################################
+<item>
+        <title>[B][COLOR white]PÓLOS OPOSTOS [/COLOR][/B]</title>
         <link>http://Ignoreme</link>
         <externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/POLOS%20OPOSTOS/TEMPORADA</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9gIdbFxA4zHG5v34CW8vJjCKHzm.jpg</thumbnail>
