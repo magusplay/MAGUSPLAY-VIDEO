@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gQZpVysbT5FGYVYrsjuwQa2XIay.jpg" group-title="SERIE", 1ª TEMPORADA COMPLETA
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e304c2825453866b88908357b76934424ca11d55
