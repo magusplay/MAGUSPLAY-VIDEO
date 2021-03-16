@@ -21,3 +21,6 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d93db4e276296df08d0
 #EXTINF:-1 tvg-id="EXPRESSO DO AMANHÂ" tvg-name="EXPRESSO DO AMANHÂ" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7AoS6Oez4C3z8wRnQVHYLwhY3FX.jpg" tvg-shift="0" group-title="EXPRESSO DO AMANHÂ",[B] EPISÓDIO 6[/B]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d42c522835671147af8319174bb8dd2fd42eaa6b
 
+#EXTINF:-1 tvg-id="EXPRESSO DO AMANHÂ" tvg-name="EXPRESSO DO AMANHÂ" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7AoS6Oez4C3z8wRnQVHYLwhY3FX.jpg" tvg-shift="0" group-title="EXPRESSO DO AMANHÂ",[B] EPISÓDIO 7[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49841f69307e486f948ddb3e2d76009ce034c1af
+
