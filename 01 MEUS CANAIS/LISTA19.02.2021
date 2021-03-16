@@ -110,9 +110,6 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 group-title="WEBTV" tvg-logo="https://1.bp.blogspot.com/-cg2UrEWoKPI/X--FI_YAedI/AAAAAAAAEEo/ekYtPrZrIgITJ298AdkAg2_sV6bA1aqFgCLcBGAsYHQ/s0/CORNO%2BTV.png", CornoTV
 https://stream.lives.srv.br/cornotv/cornotv/Playlist.m3u8
 
-#EXTINF:-1 group-title="WEBTV" tvg-logo="https://static.wixstatic.com/media/895552_e7c0f4dacee04324af3acad946e29cf1~mv2.png/v1/fill/w_87,h_108,al_c,q_85,usm_0.66_1.00_0.01/logo.webp", CTV Cariri
-https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
-
 #EXTINF:-1 group-title="WEBTV" tvg-logo="https://2.bp.blogspot.com/-faI3sYffT0w/Xrh_hrkuOcI/AAAAAAAACvE/3mt6BIKei_EHg9lOQetZU9Kk9kH2SJsMwCLcBGAsYHQ/s320/2020-05-10%2B19.21.05.png", CTV
 https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8
 
@@ -407,9 +404,6 @@ https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamor
 
 #EXTINF:-1 group-title="WEBTV" tvg-logo="https://1.bp.blogspot.com/-pMFYObn5ktU/X48ipIfBcFI/AAAAAAAADdg/ayf5nVftUtskb1eC0NYpdKNnJWb7NpKFgCLcBGAsYHQ/s0/VILA%2BTV%2B2.png", Vila TV
 https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
-
-#EXTINF:-1 group-title="WEBTV" tvg-logo="https://static.wixstatic.com/media/968b35_bb1cad15a0db43d09a3fe41e05a624ad~mv2.png/v1/fill/w_351,h_348,al_c,q_85,usm_0.66_1.00_0.01/LOGOMARCA.webp", Vintage TV
-https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 
 #EXTINF:-1 group-title="WEBTV" tvg-logo="https://1.bp.blogspot.com/-FDUP3ke6RVM/YAHUxTRFZHI/AAAAAAAAEI4/K6-WWCsR2bcsexy-pDRul7eKlT8xua1TwCLcBGAsYHQ/s0/VIRTUAL%2BTV.png", Virtual TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
