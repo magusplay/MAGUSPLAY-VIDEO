@@ -8,6 +8,7 @@
         </item>
 ##############################################################
 
+
 <item>
 <title>[B]1ª TEMPORADA  [COLOR lime]|T  [/COLOR]  [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9C221BD1A920E00C347C933D0916BF6A898F908A</link>
@@ -17,6 +18,15 @@
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+<item>
+        <title>[B][COLOR white]2ª TEMPORADA[/COLOR][COLOR lime] |WEB [/COLOR][/B]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/BOKU%20NO%20HERO/2%C2%AA%20TEMPORADA</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mWHCII5OWHx5pRSN2VYYLvT8DbB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mWHCII5OWHx5pRSN2VYYLvT8DbB.jpg</fanart>
+<info>MAGUSPLAY</info>
+        </item>
+##############################################################
 
 <item>
 <title>[B] 2ª TEMPORADA  [COLOR lime]|T  [/COLOR]  [/B]</title>
