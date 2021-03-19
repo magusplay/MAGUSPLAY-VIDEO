@@ -36,7 +36,15 @@
 <info> MAGUSPLAY ANIME </info>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
+<item>
+        <title>[B][COLOR white]3ª TEMPORADA[/COLOR][COLOR lime] |WEB [/COLOR][/B]</title>
+        <link>http://Ignoreme</link>
+        <externallink>https://raw.githubusercontent.com/magusplay/MAGUSPLAY-VIDEO/main/BOKU%20NO%20HERO/3%C2%AA%20TEMPORADA%20WEB</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mWHCII5OWHx5pRSN2VYYLvT8DbB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mWHCII5OWHx5pRSN2VYYLvT8DbB.jpg</fanart>
+<info>MAGUSPLAY</info>
+        </item>
+##############################################################
 <item>
 <title>[B]3ª TEMPORADA  [COLOR lime]|T  [/COLOR]  [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B02A80A8622C9801859051AB96DBF4B326615345</link>
