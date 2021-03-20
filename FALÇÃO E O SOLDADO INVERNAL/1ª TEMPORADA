@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg"group-title="FALCÃO E SOLDADO INVERNAL",[B] EPISÓDIO 1[/B]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KKTEMQP2TZVMS2VWWGPTCMMM7MXXAXOH&dn=Falc%C3%A3o%20e%20o%20Soldado%20Invernal%20S01E01%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52a64641fa9e6ac96ab6b19f31318cfb2f705dc7
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w8Hi3GI4q1oR6EImrDWrAQFn8Ha.jpg"group-title="FALCÃO E SOLDADO INVERNAL",[B] AGUARDANDO LANÇAMENTO[/B]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:link
