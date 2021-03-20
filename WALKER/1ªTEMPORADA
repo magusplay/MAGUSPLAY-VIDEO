@@ -48,7 +48,15 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <item>
-<title>[B] T1:E7 - "Episódio 7" [COLOR lime]  AGUARDANDO LANÇAMENTO[/COLOR]  [/B]</title>
+<title>[B] T1:E7 - "Episódio 7" [COLOR lime][/COLOR]  [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd0a63c2db17ab8ea3199bf5083533a7281814ac</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4VHQbbY1UcAjHN7UTGu0MGyVl2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4VHQbbY1UcAjHN7UTGu0MGyVl2.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[B] T1:E8 - "Episódio 8" [COLOR lime]  AGUARDANDO LANÇAMENTO[/COLOR]  [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4VHQbbY1UcAjHN7UTGu0MGyVl2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y4VHQbbY1UcAjHN7UTGu0MGyVl2.jpg</fanart>
