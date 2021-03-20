@@ -1,7 +1,7 @@
 <item>
 <title>[B] 1ª TEMPORADA [COLOR lime][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7802090eb5e833cde88759a8596c226ded3eedea&dn/view$$lsname=TEMPORADA 1080</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a47bd861a3b4e60b18a0c98f4b7a671767bf68d1&dn/view$$lsname=TEMPORADA 720</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a47bd861a3b4e60b18a0c98f4b7a671767bf68d1&dn\$nome=TEMPORADA 720</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7802090eb5e833cde88759a8596c226ded3eedea&dn\$nome=TEMPORADA 1080</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hh4uZv4lVkTBsBqtHCA5B4EMHBR.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hh4uZv4lVkTBsBqtHCA5B4EMHBR.jpg</fanart>
 <info>[COLOR green]Total Episódios:[/COLOR] 7
