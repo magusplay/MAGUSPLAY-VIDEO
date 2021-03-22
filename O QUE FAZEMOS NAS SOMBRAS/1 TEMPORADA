@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lzb4SwMTwNZPaifi0qDc9U0imzG.jpg" group-title="CALLS", [B]EPISÓDIO 1/2[/B]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E74ZM6NYFHIWBGFJOEG7MOZMCP45XFLF
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27f99679b829d16098a9710df63b2c13f9db9565
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lzb4SwMTwNZPaifi0qDc9U0imzG.jpg" group-title="CALLS", [B]EPISÓDIO 3/4[/B]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O5YATD2JMB2JQXU46EFPJYWWCC66QAHV
