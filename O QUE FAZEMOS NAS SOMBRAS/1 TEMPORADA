@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/htqOS6RXXdUtIgJVsg3ddy6RJNH.jpg" group-title="O QUE FAZEMOS NAS SOMBRAS", [B]1ª TEMPORADA COMPLETA[/B]
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8df41df20bcaf6785aa636c79f31f756db6b35c
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lzb4SwMTwNZPaifi0qDc9U0imzG.jpg" group-title="CALLS", [B]EPISÓDIO 1/2[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E74ZM6NYFHIWBGFJOEG7MOZMCP45XFLF
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lzb4SwMTwNZPaifi0qDc9U0imzG.jpg" group-title="CALLS", [B]EPISÓDIO 3/4[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O5YATD2JMB2JQXU46EFPJYWWCC66QAHV
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lzb4SwMTwNZPaifi0qDc9U0imzG.jpg" group-title="CALLS", [B]EPISÓDIO 5/6[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4KBDCJXVHLBLRQW3SWCX2R7NCRWKTPSZ
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lzb4SwMTwNZPaifi0qDc9U0imzG.jpg" group-title="CALLS", [B]EPISÓDIO 7/8[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:COLVCJHWFUOM2XD5SIPLPJZXWO2HP4F5
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lzb4SwMTwNZPaifi0qDc9U0imzG.jpg" group-title="CALLS", [B]EPISÓDIO 9[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FNFODDWEZEMS7TIEMLA7ZE3HSPCSJM2
