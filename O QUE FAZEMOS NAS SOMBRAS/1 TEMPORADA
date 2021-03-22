@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/htqOS6RXXdUtIgJVsg3ddy6RJNH.jpg" group-title="O QUE FAZEMOS NAS SOMBRAS", [B]1ª TEMPORADA COMPLETA[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8df41df20bcaf6785aa636c79f31f756db6b35c
