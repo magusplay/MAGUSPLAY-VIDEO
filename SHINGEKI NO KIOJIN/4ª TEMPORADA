@@ -135,9 +135,19 @@
 
 
 <item>
-<title>[B] T4:E14 - "Episódio 14" [COLOR lime]  AGUARDANDO LANÇAMENTO [/COLOR]  [/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LINK&dn\$nome=SHINGEKI NO KIOJIN 720</link>
+<title>[B] T4:E14 - "Episódio 14" [COLOR lime]  [/COLOR]  [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de85e94afbc3972c6c60d7ce387bb810d35c0610&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d9b3cbdab7c8be43935eb0fa46864189b4487c4&dn\$nome=SHINGEKI NO KIOJIN 720</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
+<info>MAGUSPLAY</info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[B] T4:E15 - "Episódio 15" [COLOR lime] [/COLOR]  [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd87e55836a67a1a836562f121f795408428ffc0&dn\$nome=SHINGEKI NO KIOJIN 1080</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76350bbba3c5f5f7206a6eda40f6e26d91294db6&dn\$nome=SHINGEKI NO KIOJIN 720</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</fanart>
 <info>MAGUSPLAY</info>
