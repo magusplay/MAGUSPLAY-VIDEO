@@ -37,4 +37,6 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:270797fcb44a1ff892a
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2c4668debd5894fe725c9cc58a34bdf4bcdcc15
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 19[/B]
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c237274416890085a3071a25ba9800a4d72acfb
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w50U6Q4Vlh2jtWvNW3z0kC30Z7b.jpg"group-title="THE WALKING DEAD",[B] EPISÓDIO 20[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1a806d0d00800b3f18bb4dccde4f48530b8d3ac
 
