@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A2oBYUKgjdy0UeIP88kkdyjw8z6.jpg" group-title="THE WITCHER", [B]1ª TEMPORADA COMPLETA[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:948C263FB99990D4C587D40B33E2B99831DDA0A7
