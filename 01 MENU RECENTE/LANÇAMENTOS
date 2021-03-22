@@ -12,7 +12,51 @@
         </item>
 ####################################################################################################################################################################################
 
+<item>
+<title>[B][COLOR white]GODZILLA [/COLOR][COLOR lime]|T[/COLOR] [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81cc7aff0f4aeadee2c094bb37fc8a47688f212a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9dyFXQwmFHI1gMn2JEczgKD1hwO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9dyFXQwmFHI1gMn2JEczgKD1hwO.jpg</fanart>
+<info> 
+[COLOR yellow]Ano:[/COLOR] 2014
+[COLOR yellow]Genero:[/COLOR] FICÇÃO
+[COLOR yellow]Idioma:[/COLOR] DUBLADO
+[COLOR yellow]Resolução:[/COLOR] HD 720p
+[COLOR yellow]Sinopse:[/COLOR] Quinze anos após um trágico acidente numa central nuclear japonesa, a humanidade descobre uma verdade escondida: que há monstros colossais, mais antigos que a Humanidade, e que já foram os senhores da Terra. Enquanto a maioria está adormecida, a vida humana encontra-se indefesa perante o ataque de algumas criaturas que despertaram.
+</info>
+</item>
+##############################################################
 
+
+<item>
+<title>[B][COLOR white]GODZILLA II: REI DOS MONSTROS [/COLOR][COLOR lime]|T[/COLOR] [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC7A15A34291A2FE4BC2A924FFC2142015A6B0B9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2umU3r6V4V2gTmSnZJmH61nTorF.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2umU3r6V4V2gTmSnZJmH61nTorF.jpg</fanart>
+<info> 
+[COLOR yellow]Ano:[/COLOR] 2019
+[COLOR yellow]Genero:[/COLOR] FICÇÃO AÇÃO
+[COLOR yellow]Idioma:[/COLOR] DUBLADO
+[COLOR yellow]Resolução:[/COLOR] HD 720p/1080p
+[COLOR yellow]Sinopse:[/COLOR]  A nova história acompanha os esforços heroicos da agência criptozoológica Monarch? medida que seus membros combatem uma série de monstros gigantes, incluindo o poderoso Godzilla, que enfrenta Mothra, Rodan e o maior de seus inimigos, o tricéfalo King Ghidorah.
+</info>
+</item>
+##############################################################
+
+<item>
+<title>[B][COLOR white]KONG: A ILHA DA CAVEIRA [/COLOR][COLOR lime]|T[/COLOR] [/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6CDED5CBA9244C96C295DB94AF709D7235CD53</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y7ZdnfEA8AEyCFdojYBxeevtZtc.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y7ZdnfEA8AEyCFdojYBxeevtZtc.jpg</fanart>
+<info> 
+[COLOR yellow]Ano:[/COLOR] 2017
+[COLOR yellow]Genero:[/COLOR] FICÇÃO AÇÃO
+[COLOR yellow]Idioma:[/COLOR] DUBLADO
+[COLOR yellow]Resolução:[/COLOR] HD 720p
+[COLOR yellow]Sinopse:[/COLOR] Uma equipa de exploradores reúne-se na missão de explorar uma ilha desconhecida do Pacífico – com tanto de encantadora como de traiçoeira – alheios ao facto de estarem a entrar no território do mítico Kong.
+</info>
+</item>
+##############################################################
 <item>
         <title>[B][COLOR white] THE WITCHER [/COLOR][/B]</title>
         <link>http://Ignoreme</link>
