@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k08GAZZZMgZh4BRXfamsKDTLuD1.jpg" group-title="FOR ALL MANKIND", [B]EPISÓDIO 1-2-3[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbbfec4b0300965ff1b2d2e6f7187f782d47a274
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k08GAZZZMgZh4BRXfamsKDTLuD1.jpg" group-title="FOR ALL MANKIND", [B]EPISÓDIO 4[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cd4c019f8afc330e4b27bab55b9ccbf9b14f9e6
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k08GAZZZMgZh4BRXfamsKDTLuD1.jpg" group-title="FOR ALL MANKIND", [B]EPISÓDIO 5[/B]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57fc846b049349917da5014394d44b7872ec46a4
