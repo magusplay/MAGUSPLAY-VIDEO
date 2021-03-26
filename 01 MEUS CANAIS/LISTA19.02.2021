@@ -398,7 +398,7 @@ https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w564310084.m3u8
 
 
 #EXTM3U x-tvg-url="https://i.imgur.com/4IRPTyM.png" url-tvg="https://i.imgur.com/4IRPTyM.png" refresh="3600"
-#EXTINF:-1 tvg-name="*********** CANAIS TESTE***********" group-title="MAGUSPLAY TV" tvg-logo="https://i.imgur.com/4IRPTyM.png",[B][COLOR lime]OS CANAIS NO ADDON DESDE FEVEREIRO DE 2021[COLOR][/B]
+#EXTINF:-1 tvg-name="*********** CANAIS TESTE***********" group-title="MAGUSPLAY TV" tvg-logo="https://i.imgur.com/4IRPTyM.png",[B][COLOR lime]OS CANAIS NO ADDON DESDE FEVEREIRO DE 2021[/COLOR][/B]
 https://
 
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-name="TV Paraná Turismo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3lxkJxb.png" tvg-url="" group-title="Travel",[B]TV Paraná Turismo[/B]
