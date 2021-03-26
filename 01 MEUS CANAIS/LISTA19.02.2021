@@ -1,6 +1,6 @@
 
 #EXTM3U x-tvg-url="https://i.imgur.com/4IRPTyM.png" url-tvg="https://i.imgur.com/4IRPTyM.png" refresh="3600"
-#EXTINF:-1 tvg-name="*********** CANAIS ABERTO***********" group-title="MAGUSPLAY TV" tvg-logo="https://i.imgur.com/4IRPTyM.png",[B] CANAIS ABERTO [/B]
+#EXTINF:-1 tvg-name="*********** CANAIS ABERTO***********" group-title="MAGUSPLAY TV" tvg-logo="https://i.imgur.com/4IRPTyM.png",[B][COLOR lime] CANAIS ABERTO NO ADDON DESDE FEVEREIRO [/COLOR][/B]
 https://
 
 #EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="TV Aberta",[B]Band[/B]
@@ -66,7 +66,7 @@ https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
 
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml" url-tvg="https://i.mjh.nz/PlutoTV/br.xml" refresh="3600"
-#EXTINF:-1 tvg-name="*********** PLUTO BR ***********" group-title="BRAZIL PLUTO" tvg-logo="https://i.imgur.com/4IRPTyM.png",[B]PLUTO BR [/B]
+#EXTINF:-1 tvg-name="*********** PLUTO BR ***********" group-title="BRAZIL PLUTO" tvg-logo="https://i.imgur.com/4IRPTyM.png",[B][COLOR lime]PLUTO BR[/COLOR] [/B]
 https://
 
 #EXTINF:-1 tvg-name="A vida moderna de Rocko" tvg-id="5f6df6293a12e10007017396" group-title="BRAZIL PLUTO" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png",[B]A vida moderna de Rocko[/B]
@@ -135,7 +135,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf4370007
 
 
 #EXTM3U x-tvg-url="https://i.imgur.com/4IRPTyM.png" url-tvg="https://i.imgur.com/4IRPTyM.png" refresh="3600"
-#EXTINF:-1 tvg-name="*********** WEB TV***********" group-title="MAGUSPLAY TV" tvg-logo="https://i.imgur.com/4IRPTyM.png",[B] WEB TV [/B]
+#EXTINF:-1 tvg-name="*********** WEB TV***********" group-title="MAGUSPLAY TV" tvg-logo="https://i.imgur.com/4IRPTyM.png",[B] [COLOR lime]TV WEB  [/COLOR][/B]
 https://
 #EXTINF:-1 group-title="WEBTV" tvg-logo="https://1.bp.blogspot.com/-uB-FjjkiZHo/YAMW-JmZC2I/AAAAAAAAEJk/9wl8wHOIDXgOVBWtUUCzYLri2xoCSiwJACLcBGAsYHQ/s320/AGUIAR%2BBTV.png", [B] BTV[/B]
 https://stmv.video.expressolider.com.br/aguiarbtv/aguiarbtv/playlist.m3u8
@@ -411,7 +411,7 @@ https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w564310084.m3u8
 
 
 #EXTM3U x-tvg-url="https://i.imgur.com/4IRPTyM.png" url-tvg="https://i.imgur.com/4IRPTyM.png" refresh="3600"
-#EXTINF:-1 tvg-name="*********** CANAIS TESTE***********" group-title="MAGUSPLAY TV" tvg-logo="https://i.imgur.com/4IRPTyM.png",[B]OS CANAIS AQUI SÃO ENCONTRADOS EM SITES DA INTERNET E EDITADO ORGANIZADO PELO MAGUSPLAY ESSA A LISTA ESTA AQUI DESDE FEVEREIRO DE 2021[/B]
+#EXTINF:-1 tvg-name="*********** CANAIS TESTE***********" group-title="MAGUSPLAY TV" tvg-logo="https://i.imgur.com/4IRPTyM.png",[B][COLOR lime]OS CANAIS NO ADDON DESDE FEVEREIRO DE 2021[COLOR][/B]
 https://
 
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-name="TV Paraná Turismo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3lxkJxb.png" tvg-url="" group-title="Travel",[B]TV Paraná Turismo[/B]
